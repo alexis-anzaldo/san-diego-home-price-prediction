@@ -1,0 +1,1485 @@
+,Full_address,Area,Apartment_Name,sqft,Beds,Baths,Price
+0,"550 W Date St, San Diego, CA 92101",Little Italy,Capri 1,551.0,0,1.0,3095
+1,"550 W Date St, San Diego, CA 92101",Little Italy,Capri 3,588.0,0,1.0,3350
+2,"550 W Date St, San Diego, CA 92101",Little Italy,Capri 5,670.0,0,1.0,3770
+3,"550 W Date St, San Diego, CA 92101",Little Italy,Capri L3,754.0,0,1.0,4115
+4,"550 W Date St, San Diego, CA 92101",Little Italy,Firenze 2,835.0,1,1.0,3955
+5,"550 W Date St, San Diego, CA 92101",Little Italy,Roma 3,1057.0,2,2.0,5385
+6,"550 W Date St, San Diego, CA 92101",Little Italy,Roma 1,1166.0,2,2.0,5790
+7,"550 W Date St, San Diego, CA 92101",Little Italy,Roma 2,1195.0,2,2.0,6460
+8,"550 W Date St, San Diego, CA 92101",Little Italy,Roma 4,1158.0,2,2.0,7385
+9,"3455 Kearny Villa Rd, San Diego, CA 92123",Serra Mesa,Alba,780.0,1,1.0,2890
+10,"3455 Kearny Villa Rd, San Diego, CA 92123",Serra Mesa,Prato,1059.0,2,2.0,3295
+11,"3455 Kearny Villa Rd, San Diego, CA 92123",Serra Mesa,Tramonto,1198.0,2,2.0,3470
+12,"3455 Kearny Villa Rd, San Diego, CA 92123",Serra Mesa,Lago Loft,1261.0,2,2.0,4495
+13,"1211 Mollie St, San Diego, CA 92110",Morena,One Bedroom,448.0,1,1.0,2750
+14,"1211 Mollie St, San Diego, CA 92110",Morena,Two Bedroom,626.0,2,1.0,3750
+15,"1211 Mollie St, San Diego, CA 92110",Morena,Three Bedroom,995.0,3,2.0,4800
+16,"1211 Mollie St, San Diego, CA 92110",Morena,Four Bedroom,1187.0,4,2.0,5995
+17,"3909 Voltaire St, San Diego, CA 92107",Point Loma Heights,105,655.0,1,1.0,3150
+18,"3909 Voltaire St, San Diego, CA 92107",Point Loma Heights,311,950.0,2,2.0,3995
+19,"1330 Market St, San Diego, CA 92101",East Village,Studio E1A,572.0,0,1.0,2550
+20,"1330 Market St, San Diego, CA 92101",East Village,One Bedroom A1G,760.0,1,1.0,2918
+21,"1330 Market St, San Diego, CA 92101",East Village,One Bedroom A1E,745.0,1,1.0,2968
+22,"1330 Market St, San Diego, CA 92101",East Village,One Bedroom A1A,654.0,1,1.0,2975
+23,"1330 Market St, San Diego, CA 92101",East Village,One Bedroom A1J,832.0,1,1.0,3008
+24,"1330 Market St, San Diego, CA 92101",East Village,One Bedroom A1C,789.0,1,1.0,3425
+25,"1330 Market St, San Diego, CA 92101",East Village,Two Bedroom B2C,1087.0,2,2.0,3770
+26,"1330 Market St, San Diego, CA 92101",East Village,Two Bedroom B2D,1092.0,2,2.0,3916
+27,"1150 E St, San Diego, CA 92101",East Village,A-Broadway S 1x1,535.0,1,1.0,2939
+28,"1150 E St, San Diego, CA 92101",East Village,D-Broadway S 1x1,570.0,1,1.0,3105
+29,"1150 E St, San Diego, CA 92101",East Village,F1-Broadway S 1x1,583.0,1,1.0,3136
+30,"1150 E St, San Diego, CA 92101",East Village,F-Broadway S 1x1,582.0,1,1.0,3176
+31,"1150 E St, San Diego, CA 92101",East Village,9-Broadway S 1x1,610.0,1,1.0,3241
+32,"1150 E St, San Diego, CA 92101",East Village,3-Broadway S 1x1,582.0,1,1.0,3358
+33,"1150 E St, San Diego, CA 92101",East Village,7-Broadway S 1x1,688.0,1,1.0,3742
+34,"1150 E St, San Diego, CA 92101",East Village,E2-Broadway S 2x2,894.0,2,2.0,3666
+35,"1150 E St, San Diego, CA 92101",East Village,E-Broadway S 2x2,846.0,2,2.0,3850
+36,"1150 E St, San Diego, CA 92101",East Village,6-Broadway S 2x2-DEN,992.0,2,2.0,4774
+37,"1150 E St, San Diego, CA 92101",East Village,2-Broadway S 3x2,1048.0,3,2.0,4111
+38,"1150 E St, San Diego, CA 92101",East Village,8-Broadway S 3x2,1070.0,3,2.0,4939
+39,"201 Del Sol Dr, San Diego, CA 92108",Mission Valley West,A1 1 Bedroom,779.0,1,1.0,3066
+40,"201 Del Sol Dr, San Diego, CA 92108",Mission Valley West,A2 1 Bedroom,775.0,1,1.0,3256
+41,"201 Del Sol Dr, San Diego, CA 92108",Mission Valley West,C1 2 Bedroom,1098.0,2,2.0,3674
+42,"201 Del Sol Dr, San Diego, CA 92108",Mission Valley West,C10 2 Bedroom,991.0,2,2.0,3962
+43,"201 Del Sol Dr, San Diego, CA 92108",Mission Valley West,C11 2 Bedroom,998.0,2,2.0,4005
+44,"201 Del Sol Dr, San Diego, CA 92108",Mission Valley West,C15 2 Bedroom,990.0,2,2.0,4095
+45,"201 Del Sol Dr, San Diego, CA 92108",Mission Valley West,C12 2 Bedroom,1080.0,2,2.0,4154
+46,"201 Del Sol Dr, San Diego, CA 92108",Mission Valley West,C7 2 Bedroom,1111.0,2,2.0,4250
+47,"201 Del Sol Dr, San Diego, CA 92108",Mission Valley West,C3th 2 Bedroom Townhouse,1257.0,2,2.0,5047
+48,"201 Del Sol Dr, San Diego, CA 92108",Mission Valley West,D4 3 Bedroom,1442.0,3,2.0,4319
+49,"5075 Camino De La Siesta, San Diego, CA 92108",Mission Valley East,S1.1,547.0,0,1.0,2755
+50,"5075 Camino De La Siesta, San Diego, CA 92108",Mission Valley East,S2.1,609.0,0,1.0,2800
+51,"5075 Camino De La Siesta, San Diego, CA 92108",Mission Valley East,S2,579.0,0,1.0,2805
+52,"5075 Camino De La Siesta, San Diego, CA 92108",Mission Valley East,A1,728.0,1,1.0,2983
+53,"5075 Camino De La Siesta, San Diego, CA 92108",Mission Valley East,A2,750.0,1,1.0,3165
+54,"5075 Camino De La Siesta, San Diego, CA 92108",Mission Valley East,A2.2a,821.0,1,1.0,3305
+55,"5075 Camino De La Siesta, San Diego, CA 92108",Mission Valley East,A2.2,830.0,1,1.0,3305
+56,"5075 Camino De La Siesta, San Diego, CA 92108",Mission Valley East,SK1.1,1550.0,1,1.0,3930
+57,"5075 Camino De La Siesta, San Diego, CA 92108",Mission Valley East,SK1a,1564.0,1,1.0,3930
+58,"5075 Camino De La Siesta, San Diego, CA 92108",Mission Valley East,SK1,1500.0,1,1.0,3930
+59,"5075 Camino De La Siesta, San Diego, CA 92108",Mission Valley East,B1,1090.0,2,2.0,3726
+60,"5075 Camino De La Siesta, San Diego, CA 92108",Mission Valley East,B1a,1090.0,2,2.0,3726
+61,"5075 Camino De La Siesta, San Diego, CA 92108",Mission Valley East,B2,1087.0,2,2.0,3745
+62,"5075 Camino De La Siesta, San Diego, CA 92108",Mission Valley East,B1.3,1253.0,2,2.0,3846
+63,"6345 Gullstrand St, San Diego, CA 92122",University City,Santa Barbara,1033.0,2,2.0,3498
+64,"688 13th St, San Diego, CA 92101",East Village,Iowa,615.0,0,1.0,2483
+65,"688 13th St, San Diego, CA 92101",East Village,Chesapeake,565.0,0,1.0,2498
+66,"688 13th St, San Diego, CA 92101",East Village,Alabama,610.0,0,1.0,2543
+67,"688 13th St, San Diego, CA 92101",East Village,Langley Platinum,690.0,0,1.0,2843
+68,"688 13th St, San Diego, CA 92101",East Village,Lexington,670.0,1,1.0,2523
+69,"688 13th St, San Diego, CA 92101",East Village,Forrestal,730.0,1,1.0,2718
+70,"688 13th St, San Diego, CA 92101",East Village,Tang,980.0,2,2.0,3600
+71,"2643 W Canyon Ave, San Diego, CA 92123",Serra Mesa,Plan 7,641.0,1,1.0,2580
+72,"2643 W Canyon Ave, San Diego, CA 92123",Serra Mesa,Plan 1B,765.0,1,1.0,2775
+73,"2643 W Canyon Ave, San Diego, CA 92123",Serra Mesa,Plan 1C,804.0,1,1.0,3060
+74,"2643 W Canyon Ave, San Diego, CA 92123",Serra Mesa,Plan 1L,930.0,1,1.0,3215
+75,"2643 W Canyon Ave, San Diego, CA 92123",Serra Mesa,Plan 1A,849.0,1,1.0,3220
+76,"2643 W Canyon Ave, San Diego, CA 92123",Serra Mesa,Plan 4,991.0,2,2.0,3125
+77,"2643 W Canyon Ave, San Diego, CA 92123",Serra Mesa,Plan 5,1108.0,2,2.0,3520
+78,"2643 W Canyon Ave, San Diego, CA 92123",Serra Mesa,Plan 8,1044.0,2,2.0,3695
+79,"2643 W Canyon Ave, San Diego, CA 92123",Serra Mesa,Plan 8D,1205.0,2,2.0,3870
+80,"2643 W Canyon Ave, San Diego, CA 92123",Serra Mesa,Plan 3,1503.0,3,2.0,4545
+81,"10343 San Diego Mission Rd, San Diego, CA 92108",Grantville,A1,700.0,1,1.0,2550
+82,"4695 Torrey Cir, San Diego, CA 92130",Carmel Valley,Plan A,805.0,1,1.0,3100
+83,"4695 Torrey Cir, San Diego, CA 92130",Carmel Valley,Plan B,827.0,1,1.0,3415
+84,"4695 Torrey Cir, San Diego, CA 92130",Carmel Valley,Plan C,895.0,1,1.0,3445
+85,"4695 Torrey Cir, San Diego, CA 92130",Carmel Valley,Plan K,1203.0,2,2.0,3645
+86,"4695 Torrey Cir, San Diego, CA 92130",Carmel Valley,Plan J,1165.0,2,2.0,4105
+87,"11540 Windcrest Ln, San Diego, CA 92128",Carmel Mountain,Camellia,621.0,1,1.0,2655
+88,"11540 Windcrest Ln, San Diego, CA 92128",Carmel Mountain,Gardenia,631.0,1,1.0,2701
+89,"11540 Windcrest Ln, San Diego, CA 92128",Carmel Mountain,Jasmine,875.0,2,2.0,3082
+90,"11540 Windcrest Ln, San Diego, CA 92128",Carmel Mountain,Hibiscus,899.0,2,2.0,3144
+91,"11540 Windcrest Ln, San Diego, CA 92128",Carmel Mountain,Bougainvillea,904.0,2,2.0,3183
+92,"3235 Armstrong St, San Diego, CA 92111",Clairemont Mesa East,1x1A,700.0,1,1.0,2503
+93,"3235 Armstrong St, San Diego, CA 92111",Clairemont Mesa East,2x2A,975.0,2,2.0,2945
+94,"675 9th Ave, San Diego, CA 92101",Core-Columbia,JB,641.0,1,1.0,2800
+95,"675 9th Ave, San Diego, CA 92101",Core-Columbia,JC,635.0,1,1.0,2800
+96,"675 9th Ave, San Diego, CA 92101",Core-Columbia,JA,635.0,1,1.0,2900
+97,"675 9th Ave, San Diego, CA 92101",Core-Columbia,JD,657.0,1,1.0,3000
+98,"675 9th Ave, San Diego, CA 92101",Core-Columbia,1E,782.0,1,1.0,3100
+99,"675 9th Ave, San Diego, CA 92101",Core-Columbia,1A,814.0,1,1.0,3275
+100,"675 9th Ave, San Diego, CA 92101",Core-Columbia,1F,800.0,1,1.0,3275
+101,"675 9th Ave, San Diego, CA 92101",Core-Columbia,1D 1,802.0,1,1.0,3300
+102,"675 9th Ave, San Diego, CA 92101",Core-Columbia,1B,802.0,1,1.0,3300
+103,"675 9th Ave, San Diego, CA 92101",Core-Columbia,1C,784.0,1,1.0,3325
+104,"675 9th Ave, San Diego, CA 92101",Core-Columbia,1G,806.0,1,1.0,3325
+105,"675 9th Ave, San Diego, CA 92101",Core-Columbia,1D,781.0,1,1.0,3525
+106,"675 9th Ave, San Diego, CA 92101",Core-Columbia,1J,943.0,1,1.0,3725
+107,"675 9th Ave, San Diego, CA 92101",Core-Columbia,1H,1066.0,1,1.0,4325
+108,"675 9th Ave, San Diego, CA 92101",Core-Columbia,1K,815.0,1,1.0,4650
+109,"675 9th Ave, San Diego, CA 92101",Core-Columbia,2A,1207.0,2,2.0,4875
+110,"675 9th Ave, San Diego, CA 92101",Core-Columbia,2D 2,1367.0,2,2.5,5100
+111,"675 9th Ave, San Diego, CA 92101",Core-Columbia,2B,1202.0,2,2.0,5250
+112,"675 9th Ave, San Diego, CA 92101",Core-Columbia,2D 1,1319.0,2,2.5,6200
+113,"675 9th Ave, San Diego, CA 92101",Core-Columbia,Silver Strand Penthouse,1537.0,2,2.5,8125
+114,"675 9th Ave, San Diego, CA 92101",Core-Columbia,Sunset Cliffs Penthouse,1782.0,2,2.5,8850
+115,"675 9th Ave, San Diego, CA 92101",Core-Columbia,Coronado Penthouse,1830.0,2,2.5,9350
+116,"675 9th Ave, San Diego, CA 92101",Core-Columbia,Cabrillo Penthouse,1956.0,2,2.5,9400
+117,"675 9th Ave, San Diego, CA 92101",Core-Columbia,Point Loma Penthouse,1917.0,2,2.5,10500
+118,"675 9th Ave, San Diego, CA 92101",Core-Columbia,3B,1317.0,3,2.0,5425
+119,"675 9th Ave, San Diego, CA 92101",Core-Columbia,3A,1367.0,3,2.0,5550
+120,"9840 Carroll Canyon Rd, San Diego, CA 92131",Scripps Ranch,Plan A1,614.0,1,1.0,3191
+121,"9840 Carroll Canyon Rd, San Diego, CA 92131",Scripps Ranch,Plan B5,973.0,2,2.0,3404
+122,"9840 Carroll Canyon Rd, San Diego, CA 92131",Scripps Ranch,Plan B1,1066.0,2,2.0,3503
+123,"9840 Carroll Canyon Rd, San Diego, CA 92131",Scripps Ranch,Plan B3,1016.0,2,2.0,3681
+124,"9840 Carroll Canyon Rd, San Diego, CA 92131",Scripps Ranch,Plan B2,1095.0,2,2.0,3686
+125,"9840 Carroll Canyon Rd, San Diego, CA 92131",Scripps Ranch,Plan C1,1271.0,3,2.0,4707
+126,"5395 Napa St, San Diego, CA 92110",Morena,Segovia,678.0,1,1.0,2993
+127,"5395 Napa St, San Diego, CA 92110",Morena,Mallorca,1215.0,1,1.0,3388
+128,"5395 Napa St, San Diego, CA 92110",Morena,Avila,982.0,2,2.0,3543
+129,"5395 Napa St, San Diego, CA 92110",Morena,Toledo,975.0,2,2.0,3548
+130,"5395 Napa St, San Diego, CA 92110",Morena,Valencia,1075.0,2,2.0,3568
+131,"5395 Napa St, San Diego, CA 92110",Morena,Barcelona,1090.0,2,2.0,3628
+132,"5395 Napa St, San Diego, CA 92110",Morena,Seville,1029.0,2,2.0,3748
+133,"5395 Napa St, San Diego, CA 92110",Morena,Cartagena,1417.0,2,2.0,3953
+134,"3910 Chapman St, San Diego, CA 92110",Point Loma Heights,101,,1,1.0,2850
+135,"3534 5th Ave, San Diego, CA 92103",Hillcrest,512,977.0,2,2.0,3795
+136,"3534 5th Ave, San Diego, CA 92103",Hillcrest,714,905.0,2,2.0,4295
+137,"14433 Penasquitos Dr, San Diego, CA 92129",Rancho Penasquitos,S1,483.0,0,1.0,2430
+138,"14433 Penasquitos Dr, San Diego, CA 92129",Rancho Penasquitos,A2,714.0,1,1.0,2900
+139,"14433 Penasquitos Dr, San Diego, CA 92129",Rancho Penasquitos,A2-1,715.0,1,1.0,2915
+140,"14433 Penasquitos Dr, San Diego, CA 92129",Rancho Penasquitos,A1,676.0,1,1.0,3030
+141,"14433 Penasquitos Dr, San Diego, CA 92129",Rancho Penasquitos,B3-3,1175.0,2,2.0,3630
+142,"14433 Penasquitos Dr, San Diego, CA 92129",Rancho Penasquitos,B2-2,1144.0,2,2.0,3630
+143,"14433 Penasquitos Dr, San Diego, CA 92129",Rancho Penasquitos,C1-1,1261.0,3,2.0,4090
+144,"14433 Penasquitos Dr, San Diego, CA 92129",Rancho Penasquitos,C2-3,1503.0,3,2.0,4180
+145,"8270 Merge Ave, San Diego, CA 92129",Rancho Penasquitos,C1,1312.0,3,2.5,4295
+146,"8270 Merge Ave, San Diego, CA 92129",Rancho Penasquitos,C2,1574.0,3,2.5,4695
+147,"8270 Merge Ave, San Diego, CA 92129",Rancho Penasquitos,C4,1764.0,3,2.5,5150
+148,"8270 Merge Ave, San Diego, CA 92129",Rancho Penasquitos,C3,2293.0,3,2.5,6095
+149,"7901 Civita Blvd, San Diego, CA 92108",Serra Mesa,A,563.0,1,1.0,2695
+150,"7901 Civita Blvd, San Diego, CA 92108",Serra Mesa,A9,629.0,1,1.0,2836
+151,"7901 Civita Blvd, San Diego, CA 92108",Serra Mesa,A1,640.0,1,1.0,3135
+152,"7901 Civita Blvd, San Diego, CA 92108",Serra Mesa,A3,716.0,1,1.0,3152
+153,"7901 Civita Blvd, San Diego, CA 92108",Serra Mesa,C2,1113.0,2,2.0,4047
+154,"7901 Civita Blvd, San Diego, CA 92108",Serra Mesa,C3,1094.0,2,2.0,4098
+155,"7901 Civita Blvd, San Diego, CA 92108",Serra Mesa,C1,1098.0,2,2.0,4247
+156,"3535 Lebon Dr, San Diego, CA 92122",University City,Plan 1,733.0,1,1.0,3025
+157,"3535 Lebon Dr, San Diego, CA 92122",University City,Plan 5L,1142.0,2,2.0,4475
+158,"9865 Erma Rd, San Diego, CA 92131",Scripps Ranch,Coming in 2023,1034.0,2,2.0,3400
+159,"10918 Evening Creek Dr E, San Diego, CA 92128",Sabre Springs,ORION,998.0,2,2.0,3655
+160,"10918 Evening Creek Dr E, San Diego, CA 92128",Sabre Springs,PEGASUS 2,1214.0,2,2.0,4055
+161,"610 Del Sol Dr, San Diego, CA 92108",Mission Valley West,A3 1 Bedroom,704.0,1,1.0,3146
+162,"610 Del Sol Dr, San Diego, CA 92108",Mission Valley West,A2 1 Bedroom,693.0,1,1.0,3149
+163,"610 Del Sol Dr, San Diego, CA 92108",Mission Valley West,C4 2 Bedroom,1111.0,2,2.0,3432
+164,"610 Del Sol Dr, San Diego, CA 92108",Mission Valley West,C2 2 Bedroom,1174.0,2,2.0,3685
+165,"610 Del Sol Dr, San Diego, CA 92108",Mission Valley West,C1 2 Bedroom,1090.0,2,2.0,3790
+166,"610 Del Sol Dr, San Diego, CA 92108",Mission Valley West,C3 2 Bedroom,1254.0,2,2.0,3918
+167,"610 Del Sol Dr, San Diego, CA 92108",Mission Valley West,D2 3 Bedroom,1373.0,3,2.0,5411
+168,"3935 Normal St, San Diego, CA 92103",Hillcrest,A1,469.0,1,1.0,2575
+169,"3935 Normal St, San Diego, CA 92103",Hillcrest,A2,494.0,1,1.0,2585
+170,"3935 Normal St, San Diego, CA 92103",Hillcrest,A3,526.0,1,1.0,2610
+171,"3935 Normal St, San Diego, CA 92103",Hillcrest,A5,585.0,1,1.0,2735
+172,"3935 Normal St, San Diego, CA 92103",Hillcrest,A6,600.0,1,1.0,2765
+173,"3935 Normal St, San Diego, CA 92103",Hillcrest,A4,541.0,1,1.0,2775
+174,"3935 Normal St, San Diego, CA 92103",Hillcrest,The Lena - ALW,817.0,1,2.0,3300
+175,"3935 Normal St, San Diego, CA 92103",Hillcrest,B1,800.0,2,2.0,3600
+176,"606 3rd Ave, San Diego, CA 92101",Marina,Medium Studio Standard,455.0,0,1.0,2005
+177,"606 3rd Ave, San Diego, CA 92101",Marina,Medium Studio Renovated,455.0,0,1.0,2280
+178,"606 3rd Ave, San Diego, CA 92101",Marina,Large 1 Bedroom Standard,755.0,1,1.0,2306
+179,"606 3rd Ave, San Diego, CA 92101",Marina,Large 1 Bedroom Renovated,755.0,1,1.0,2633
+180,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Plan B,654.0,1,1.0,2625
+181,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Plan C,692.0,1,1.0,2680
+182,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Plan D,743.0,1,1.0,2705
+183,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Plan A,620.0,1,1.0,2720
+184,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Plan E,747.0,1,1.0,2805
+185,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Vista - Plan 1,751.0,1,1.0,2970
+186,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Vista - Plan 2,893.0,1,1.0,3145
+187,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Plan I,946.0,2,2.0,3175
+188,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Plan K,1002.0,2,2.0,3300
+189,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Plan Q,1120.0,2,2.0,3310
+190,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Plan N,1038.0,2,2.0,3390
+191,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Plan L,1022.0,2,2.0,3460
+192,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Plan R,1136.0,2,2.5,3505
+193,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Plan M,1037.0,2,2.5,3530
+194,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Plan T,1168.0,2,2.0,3540
+195,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Plan S,1152.0,2,2.5,3585
+196,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Vista - Plan 5,1255.0,2,2.0,3695
+197,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Plan U,1170.0,2,2.0,3710
+198,"6560 Ambrosia Dr, San Diego, CA 92124",Grantville,Plan V,1350.0,3,2.0,4870
+199,"9870 Mercy Rd, San Diego, CA 92129",Mira Mesa,2B2B-A,900.0,2,2.0,3646
+200,"9870 Mercy Rd, San Diego, CA 92129",Mira Mesa,2B2B-B (Upgraded),1100.0,2,2.0,3768
+201,"9870 Mercy Rd, San Diego, CA 92129",Mira Mesa,3B2B,1230.0,3,2.0,3842
+202,"9870 Mercy Rd, San Diego, CA 92129",Mira Mesa,3B2B (Upgraded),1230.0,3,2.0,3942
+203,"2507 Northside Dr, San Diego, CA 92108",Mission Valley East,Plan 2,711.0,1,1.0,2620
+204,"2507 Northside Dr, San Diego, CA 92108",Mission Valley East,Plan 3,785.0,1,1.0,2980
+205,"2507 Northside Dr, San Diego, CA 92108",Mission Valley East,Plan 4,891.0,1,1.0,3170
+206,"2507 Northside Dr, San Diego, CA 92108",Mission Valley East,Plan 6,1108.0,2,2.0,3325
+207,"2507 Northside Dr, San Diego, CA 92108",Mission Valley East,Plan 5,1033.0,2,2.0,3385
+208,"2507 Northside Dr, San Diego, CA 92108",Mission Valley East,Plan 7,1202.0,2,2.0,3450
+209,"11600 Compass Point Dr N, San Diego, CA 92126",Mira Mesa,2 Bedroom 2 Bath (A),998.0,2,2.0,3412
+210,"11600 Compass Point Dr N, San Diego, CA 92126",Mira Mesa,2 Bedroom 2 Baths (A) Renovated,998.0,2,2.0,3562
+211,"11600 Compass Point Dr N, San Diego, CA 92126",Mira Mesa,2 Bedroom 2 Bath (B and C),1214.0,2,2.0,3632
+212,"11600 Compass Point Dr N, San Diego, CA 92126",Mira Mesa,2 Bedroom 2 Bath (B and C) Renovated,1151.0,2,2.0,3810
+213,"11100 Vista Sorrento Pkwy, San Diego, CA 92130",Carmel Valley,Plan 1,762.0,1,1.0,3245
+214,"11100 Vista Sorrento Pkwy, San Diego, CA 92130",Carmel Valley,Plan 3,1059.0,1,1.0,3530
+215,"11100 Vista Sorrento Pkwy, San Diego, CA 92130",Carmel Valley,Plan 4,1083.0,2,2.0,3785
+216,"11100 Vista Sorrento Pkwy, San Diego, CA 92130",Carmel Valley,Plan 8,1365.0,2,2.0,4590
+217,"11100 Vista Sorrento Pkwy, San Diego, CA 92130",Carmel Valley,Plan 10,1454.0,2,2.0,4645
+218,"8583 Aero Dr, San Diego, CA 92123",Serra Mesa,A3,716.0,1,1.0,2765
+219,"8583 Aero Dr, San Diego, CA 92123",Serra Mesa,A1,644.0,1,1.0,2885
+220,"8583 Aero Dr, San Diego, CA 92123",Serra Mesa,A2,734.0,1,1.0,3000
+221,"8583 Aero Dr, San Diego, CA 92123",Serra Mesa,A4,788.0,1,1.0,3049
+222,"8583 Aero Dr, San Diego, CA 92123",Serra Mesa,B2,1055.0,2,2.0,3233
+223,"8583 Aero Dr, San Diego, CA 92123",Serra Mesa,B1,1015.0,2,2.0,3520
+224,"8583 Aero Dr, San Diego, CA 92123",Serra Mesa,B3,1128.0,2,2.0,3938
+225,"1445 K St, San Diego, CA 92101",East Village,A14,571.0,1,1.0,2490
+226,"1445 K St, San Diego, CA 92101",East Village,A06,661.0,1,1.0,2691
+227,"1445 K St, San Diego, CA 92101",East Village,A02,553.0,1,1.0,2733
+228,"1445 K St, San Diego, CA 92101",East Village,A10,615.0,1,1.0,2759
+229,"1445 K St, San Diego, CA 92101",East Village,A11,705.0,1,1.0,2775
+230,"1445 K St, San Diego, CA 92101",East Village,A04,601.0,1,1.0,2833
+231,"1445 K St, San Diego, CA 92101",East Village,A09,746.0,1,1.0,2890
+232,"1445 K St, San Diego, CA 92101",East Village,A12,723.0,1,1.0,2897
+233,"1445 K St, San Diego, CA 92101",East Village,A07,607.0,1,1.0,2929
+234,"1445 K St, San Diego, CA 92101",East Village,A07D,771.0,1,1.0,3109
+235,"1445 K St, San Diego, CA 92101",East Village,A07L,755.0,1,1.0,3181
+236,"1445 K St, San Diego, CA 92101",East Village,A08D,851.0,1,1.0,3288
+237,"1445 K St, San Diego, CA 92101",East Village,A08L,836.0,1,1.0,3393
+238,"1445 K St, San Diego, CA 92101",East Village,A05L,897.0,1,1.0,3594
+239,"1445 K St, San Diego, CA 92101",East Village,B01,790.0,2,1.0,3300
+240,"1445 K St, San Diego, CA 92101",East Village,B05D,1262.0,2,2.0,4230
+241,"9970 Erma Rd, San Diego, CA 92131",Scripps Ranch,82 Vista Hybrid Available April 27th,600.0,1,1.0,2565
+242,"9970 Erma Rd, San Diego, CA 92131",Scripps Ranch,6 Sunset Hybrid- Available May 7th,950.0,2,2.0,3200
+243,"9970 Erma Rd, San Diego, CA 92131",Scripps Ranch,74 Sunrise Modern- Available April 22nd,925.0,2,2.0,3275
+244,"9970 Erma Rd, San Diego, CA 92131",Scripps Ranch,19 Sunrise Modern Available NOW,925.0,2,2.0,3300
+245,"9970 Erma Rd, San Diego, CA 92131",Scripps Ranch,96 Sunset Modern Available April 23rd,950.0,2,2.0,3350
+246,"1007 5th Ave, San Diego, CA 92101",Core-Columbia,Broadway Studio,,0,1.0,2539
+247,"1007 5th Ave, San Diego, CA 92101",Core-Columbia,Horton Studio,,0,1.0,2549
+248,"1007 5th Ave, San Diego, CA 92101",Core-Columbia,Avenue Studio,,0,1.0,2639
+249,"1007 5th Ave, San Diego, CA 92101",Core-Columbia,Quarter 1 Bedroom,,1,1.0,2594
+250,"1007 5th Ave, San Diego, CA 92101",Core-Columbia,Bvilding 1 Bedroom,,1,1.0,2744
+251,"5280 Fiore Ter, San Diego, CA 92122",University City,Plan 1,493.0,0,1.0,2590
+252,"5280 Fiore Ter, San Diego, CA 92122",University City,Plan 3,710.0,1,1.0,2910
+253,"5280 Fiore Ter, San Diego, CA 92122",University City,Plan 2,717.0,1,1.0,2925
+254,"5280 Fiore Ter, San Diego, CA 92122",University City,Plan 4,758.0,1,1.0,3055
+255,"5280 Fiore Ter, San Diego, CA 92122",University City,Plan 8,1040.0,2,2.0,3450
+256,"5280 Fiore Ter, San Diego, CA 92122",University City,Plan 9,1060.0,2,2.0,3525
+257,"5280 Fiore Ter, San Diego, CA 92122",University City,Plan 11,1146.0,2,2.0,3570
+258,"5280 Fiore Ter, San Diego, CA 92122",University City,Plan 12,1200.0,2,2.0,3690
+259,"5280 Fiore Ter, San Diego, CA 92122",University City,Plan 7,957.0,2,2.0,3750
+260,"5280 Fiore Ter, San Diego, CA 92122",University City,Plan 10,1204.0,2,2.0,4090
+261,"5280 Fiore Ter, San Diego, CA 92122",University City,Plan 13,1348.0,3,2.0,4305
+262,"8811 Spectrum Center Blvd, San Diego, CA 92123",Kearny Mesa,Revive1,730.0,1,1.0,2753
+263,"8811 Spectrum Center Blvd, San Diego, CA 92123",Kearny Mesa,Restore2,795.0,1,1.0,2779
+264,"8811 Spectrum Center Blvd, San Diego, CA 92123",Kearny Mesa,Restore1,806.0,1,1.0,2919
+265,"8811 Spectrum Center Blvd, San Diego, CA 92123",Kearny Mesa,Refresh1,968.0,2,1.0,3172
+266,"8811 Spectrum Center Blvd, San Diego, CA 92123",Kearny Mesa,Renew,1180.0,2,2.0,3731
+0,"750 Camino De La Reina, San Diego, CA 92108",Mission Valley East,Royal,1025.0,2,2.0,3345
+1,"450 10th Ave, San Diego, CA 92101",East Village,Industrial,464.0,0,1.0,2610
+2,"450 10th Ave, San Diego, CA 92101",East Village,Solo,584.0,0,1.0,2770
+3,"450 10th Ave, San Diego, CA 92101",East Village,Urbanite,625.0,1,1.0,2915
+4,"450 10th Ave, San Diego, CA 92101",East Village,East Villager,698.0,1,1.0,3045
+5,"450 10th Ave, San Diego, CA 92101",East Village,10 & J,1208.0,2,2.0,4010
+6,"372 4th Ave, San Diego, CA 92101",Marina,Mission,415.0,0,1.0,2135
+7,"372 4th Ave, San Diego, CA 92101",Marina,Coronado,427.0,0,1.0,2170
+8,"372 4th Ave, San Diego, CA 92101",Marina,Cardiff,387.0,0,1.0,2190
+9,"372 4th Ave, San Diego, CA 92101",Marina,Mesa,432.0,0,1.0,2245
+10,"372 4th Ave, San Diego, CA 92101",Marina,Carmel,741.0,0,1.0,3225
+11,"372 4th Ave, San Diego, CA 92101",Marina,Pacific,570.0,1,1.0,2705
+12,"372 4th Ave, San Diego, CA 92101",Marina,Alpine,663.0,1,1.0,2750
+13,"372 4th Ave, San Diego, CA 92101",Marina,Sunset,612.0,1,1.0,2770
+14,"372 4th Ave, San Diego, CA 92101",Marina,Balboa,632.0,1,1.0,2780
+15,"372 4th Ave, San Diego, CA 92101",Marina,Solana,666.0,1,1.0,2885
+16,"372 4th Ave, San Diego, CA 92101",Marina,Seaport,678.0,1,1.0,2955
+17,"372 4th Ave, San Diego, CA 92101",Marina,Piazza,931.0,2,2.0,3655
+18,"9646 Carroll Canyon Rd, San Diego, CA 92126",Mira Mesa,1 Bedroom 1 Bath Apartment with 650 Square Feet of,650.0,1,1.0,2150
+19,"606 Washington St, San Diego, CA 92103",Hillcrest,Cabrillo,432.0,0,1.0,2195
+20,"606 Washington St, San Diego, CA 92103",Hillcrest,Hatfield,470.0,0,1.0,2295
+21,"606 Washington St, San Diego, CA 92103",Hillcrest,Vermont,619.0,1,1.0,2500
+22,"606 Washington St, San Diego, CA 92103",Hillcrest,Marston,594.0,1,1.0,2500
+23,"606 Washington St, San Diego, CA 92103",Hillcrest,Vanderbilt,772.0,1,1.0,2700
+24,"606 Washington St, San Diego, CA 92103",Hillcrest,Panama,676.0,1,1.0,2700
+25,"606 Washington St, San Diego, CA 92103",Hillcrest,Wyatt,844.0,2,1.0,3195
+26,"7039 Charmant Dr, San Diego, CA 92122",University City,One Bedroom / One Bath,709.0,1,1.0,2900
+27,"7039 Charmant Dr, San Diego, CA 92122",University City,Two Bedroom / Two Bath,961.0,2,2.0,3995
+28,"5305 Toscana Way, San Diego, CA 92122",University City,Valentia Plan 1A,798.0,1,1.0,3448
+29,"5305 Toscana Way, San Diego, CA 92122",University City,Valentia Plan 2A,1065.0,2,2.0,3542
+30,"5305 Toscana Way, San Diego, CA 92122",University City,Valentia Plan 2B,1084.0,2,2.0,3574
+31,"5305 Toscana Way, San Diego, CA 92122",University City,Valentia Plan 3A,1267.0,3,2.0,4370
+32,"5305 Toscana Way, San Diego, CA 92122",University City,Valentia Plan 3B,1537.0,3,2.0,5184
+33,"2288 Fenton Pkwy, San Diego, CA 92108",Mission Valley East,Plan A,726.0,1,1.0,2845
+34,"2288 Fenton Pkwy, San Diego, CA 92108",Mission Valley East,Plan B,808.0,1,1.0,2895
+35,"2288 Fenton Pkwy, San Diego, CA 92108",Mission Valley East,Plan C,1002.0,1,1.0,3405
+36,"2288 Fenton Pkwy, San Diego, CA 92108",Mission Valley East,Plan E,1131.0,2,2.0,3535
+37,"2288 Fenton Pkwy, San Diego, CA 92108",Mission Valley East,Plan F,1346.0,3,2.0,4680
+38,"11058 W Ocean Air Dr, San Diego, CA 92130",Carmel Valley,11CA,797.0,1,1.0,2965
+39,"3845 Nobel Dr, San Diego, CA 92122",University City,Concerto-,640.0,1,1.0,2595
+40,"3845 Nobel Dr, San Diego, CA 92122",University City,Opera,1010.0,2,2.0,3520
+41,"5777 Mission Center Rd, San Diego, CA 92108",Mission Valley East,Cascade,834.0,1,1.0,3135
+42,"5777 Mission Center Rd, San Diego, CA 92108",Mission Valley East,Serenity,1091.0,2,2.0,3475
+43,"5777 Mission Center Rd, San Diego, CA 92108",Mission Valley East,Victoria,1143.0,2,2.0,3630
+44,"5777 Mission Center Rd, San Diego, CA 92108",Mission Valley East,Southerland,1159.0,2,2.0,3690
+45,"5777 Mission Center Rd, San Diego, CA 92108",Mission Valley East,Sandstone,1186.0,2,2.0,3790
+46,"5777 Mission Center Rd, San Diego, CA 92108",Mission Valley East,Wailua,1370.0,3,2.0,4455
+47,"8798 Spectrum Center Blvd, San Diego, CA 92123",Kearny Mesa,S1,598.0,0,1.0,2435
+48,"8798 Spectrum Center Blvd, San Diego, CA 92123",Kearny Mesa,A2,740.0,1,1.0,2588
+49,"8798 Spectrum Center Blvd, San Diego, CA 92123",Kearny Mesa,A3,786.0,1,1.0,2608
+50,"8798 Spectrum Center Blvd, San Diego, CA 92123",Kearny Mesa,L1,905.0,2,1.0,3224
+51,"8798 Spectrum Center Blvd, San Diego, CA 92123",Kearny Mesa,B2,1096.0,2,2.0,3246
+52,"8798 Spectrum Center Blvd, San Diego, CA 92123",Kearny Mesa,B1,1094.0,2,2.0,3284
+53,"8798 Spectrum Center Blvd, San Diego, CA 92123",Kearny Mesa,B3,1106.0,2,2.0,3316
+54,"8798 Spectrum Center Blvd, San Diego, CA 92123",Kearny Mesa,B6,1309.0,2,2.0,3639
+55,"12389 Creekview Dr, San Diego, CA 92128",Sabre Springs,April-May 2023 Pegasus 1,1151.0,2,2.0,3700
+56,"2001 4th Ave, San Diego, CA 92101",Bankers Hill,A1,408.0,1,1.0,2630
+57,"424 15th St, San Diego, CA 92101",East Village,1C,687.0,1,1.0,2420
+58,"424 15th St, San Diego, CA 92101",East Village,SPIRE 1B,605.0,1,1.0,2475
+59,"424 15th St, San Diego, CA 92101",East Village,SPIRE 1A,591.0,1,1.0,2505
+60,"424 15th St, San Diego, CA 92101",East Village,1D,697.0,1,1.0,2540
+61,"424 15th St, San Diego, CA 92101",East Village,1B,617.0,1,1.0,2620
+62,"424 15th St, San Diego, CA 92101",East Village,1A,591.0,1,1.0,2640
+63,"424 15th St, San Diego, CA 92101",East Village,SPIRE 1D,668.0,1,1.0,2780
+64,"424 15th St, San Diego, CA 92101",East Village,1E,1051.0,1,1.0,2800
+65,"424 15th St, San Diego, CA 92101",East Village,SPIRE 2D,956.0,2,2.0,3310
+66,"424 15th St, San Diego, CA 92101",East Village,SPIRE 2C,958.0,2,2.0,3400
+67,"424 15th St, San Diego, CA 92101",East Village,2A,883.0,2,2.0,3410
+68,"424 15th St, San Diego, CA 92101",East Village,SPIRE 2B,957.0,2,2.0,3420
+69,"424 15th St, San Diego, CA 92101",East Village,2E,920.0,2,2.0,3450
+70,"424 15th St, San Diego, CA 92101",East Village,SPIRE 2A,957.0,2,2.0,3500
+71,"424 15th St, San Diego, CA 92101",East Village,SPIRE 2E,902.0,2,2.0,3590
+72,"424 15th St, San Diego, CA 92101",East Village,2B,952.0,2,2.0,3700
+73,"424 15th St, San Diego, CA 92101",East Village,2F,925.0,2,2.0,3700
+74,"424 15th St, San Diego, CA 92101",East Village,SPIRE 2F,1010.0,2,2.0,3765
+75,"424 15th St, San Diego, CA 92101",East Village,2K,959.0,2,2.0,3825
+76,"424 15th St, San Diego, CA 92101",East Village,2G,1139.0,2,2.0,4220
+77,"424 15th St, San Diego, CA 92101",East Village,SPIRE 2I,1233.0,2,2.0,4340
+78,"424 15th St, San Diego, CA 92101",East Village,SPIRE 2H,1433.0,2,2.0,4625
+79,"424 15th St, San Diego, CA 92101",East Village,2C,1262.0,2,2.0,4830
+80,"424 15th St, San Diego, CA 92101",East Village,3A,1185.0,3,2.0,4265
+81,"424 15th St, San Diego, CA 92101",East Village,SPIRE 3C,1328.0,3,2.0,4370
+82,"424 15th St, San Diego, CA 92101",East Village,4A,1432.0,3,2.0,5295
+83,"424 15th St, San Diego, CA 92101",East Village,SPIRE 3H,1600.0,3,2.0,5390
+84,"424 15th St, San Diego, CA 92101",East Village,SPIRE 3J,1870.0,3,3.0,6900
+85,"424 15th St, San Diego, CA 92101",East Village,3E,1861.0,3,3.0,7400
+86,"424 15th St, San Diego, CA 92101",East Village,3F,1935.0,3,3.0,7400
+87,"424 15th St, San Diego, CA 92101",East Village,SPIRE 3N,1870.0,3,3.0,8400
+88,"9904 Kika Ct, San Diego, CA 92129",Mira Mesa,Soladad,761.0,1,1.0,2876
+89,"9904 Kika Ct, San Diego, CA 92129",Mira Mesa,Laguna,1069.0,2,2.0,3268
+90,"9904 Kika Ct, San Diego, CA 92129",Mira Mesa,Palomar,1274.0,3,2.0,3933
+91,"801 A St, San Diego, CA 92101",Core-Columbia,A1,469.0,0,1.0,2181
+92,"801 A St, San Diego, CA 92101",Core-Columbia,A2,437.0,0,1.0,2356
+93,"801 A St, San Diego, CA 92101",Core-Columbia,A3a,470.0,0,1.0,2369
+94,"801 A St, San Diego, CA 92101",Core-Columbia,A1a,469.0,0,1.0,2388
+95,"801 A St, San Diego, CA 92101",Core-Columbia,A3,470.0,0,1.0,2421
+96,"801 A St, San Diego, CA 92101",Core-Columbia,B2,607.0,1,1.0,2701
+97,"801 A St, San Diego, CA 92101",Core-Columbia,B1,600.0,1,1.0,2856
+98,"801 A St, San Diego, CA 92101",Core-Columbia,B4,731.0,1,1.0,2891
+99,"801 A St, San Diego, CA 92101",Core-Columbia,B10,673.0,1,1.0,2941
+100,"801 A St, San Diego, CA 92101",Core-Columbia,B3,647.0,1,1.0,2960
+101,"801 A St, San Diego, CA 92101",Core-Columbia,B7,773.0,1,1.0,3225
+102,"801 A St, San Diego, CA 92101",Core-Columbia,B5,743.0,1,1.0,3255
+103,"801 A St, San Diego, CA 92101",Core-Columbia,B6,758.0,1,1.0,3481
+104,"801 A St, San Diego, CA 92101",Core-Columbia,B9,866.0,1,1.0,3829
+105,"801 A St, San Diego, CA 92101",Core-Columbia,C2,934.0,2,2.0,3786
+106,"801 A St, San Diego, CA 92101",Core-Columbia,C2SHR,934.0,2,2.0,3886
+107,"2401 Seaside St, San Diego, CA 92107",Point Loma Heights,1x1A,700.0,1,1.0,2314
+108,"310 Del Sol Dr, San Diego, CA 92108",Mission Valley West,A6 1 Bedroom,624.0,1,1.0,2876
+109,"310 Del Sol Dr, San Diego, CA 92108",Mission Valley West,A2 1 Bedroom,705.0,1,1.0,2899
+110,"310 Del Sol Dr, San Diego, CA 92108",Mission Valley West,A1 1 Bedroom,777.0,1,1.0,3030
+111,"310 Del Sol Dr, San Diego, CA 92108",Mission Valley West,C1 2 Bedroom,1127.0,2,2.0,3574
+112,"310 Del Sol Dr, San Diego, CA 92108",Mission Valley West,C7 2 Bedroom,1133.0,2,2.0,3594
+113,"310 Del Sol Dr, San Diego, CA 92108",Mission Valley West,C6 2 Bedroom,1164.0,2,2.0,3615
+114,"310 Del Sol Dr, San Diego, CA 92108",Mission Valley West,C1th 2 Bedroom Townhome,1327.0,2,2.0,4449
+115,"310 Del Sol Dr, San Diego, CA 92108",Mission Valley West,D2 3 Bedroom,1381.0,3,2.0,4016
+116,"7568 Charmant Dr, San Diego, CA 92122",University City,Seville (Renovated),535.0,1,1.0,2667
+117,"7568 Charmant Dr, San Diego, CA 92122",University City,Madrid (Renovated),625.0,1,1.0,2697
+118,"7568 Charmant Dr, San Diego, CA 92122",University City,Cordoba (Renovated),725.0,1,1.0,3062
+119,"7568 Charmant Dr, San Diego, CA 92122",University City,Mallorca (Renovated),890.0,2,1.0,3426
+120,"7568 Charmant Dr, San Diego, CA 92122",University City,Valencia (Renovated),925.0,2,2.0,3480
+121,"4525 Twain Ave, San Diego, CA 92120",Grantville,One Bedroom-One Bath,700.0,1,1.0,2100
+122,"191 W Beech St, San Diego, CA 92101",Cortez Hill,Studio,,0,1.0,1822
+123,"10041 Rio San Diego Dr, San Diego, CA 92108",Mission Valley East,Rev,600.0,1,1.0,2545
+124,"10041 Rio San Diego Dr, San Diego, CA 92108",Mission Valley East,Agility,650.0,1,1.0,2755
+125,"10041 Rio San Diego Dr, San Diego, CA 92108",Mission Valley East,Move,925.0,2,2.0,3250
+126,"10041 Rio San Diego Dr, San Diego, CA 92108",Mission Valley East,Flex,965.0,2,2.0,3345
+127,"3394 Daley Center Dr, San Diego, CA 92123",Serra Mesa,Newport,701.0,1,1.0,2499
+128,"3394 Daley Center Dr, San Diego, CA 92123",Serra Mesa,Hampton,1121.0,2,2.0,3024
+129,"3394 Daley Center Dr, San Diego, CA 92123",Serra Mesa,Nantucket 2nd,1173.0,2,2.0,3157
+130,"3394 Daley Center Dr, San Diego, CA 92123",Serra Mesa,Rockport,1308.0,3,2.0,4024
+131,"4580 Zion Ave, San Diego, CA 92120",Allied Gardens,One Bedroom / One Bath,823.0,1,1.0,2295
+132,"4580 Zion Ave, San Diego, CA 92120",Allied Gardens,Two Bedroom / Two Bath,1000.0,2,2.0,2895
+133,"2710 Grand Ave, San Diego, CA 92109",Pacific Beach,1x1,508.0,1,1.0,2395
+134,"3828 Pendiente Ct, San Diego, CA 92124",Tierrasanta,Eucalyptus,875.0,2,1.0,2865
+135,"3828 Pendiente Ct, San Diego, CA 92124",Tierrasanta,Sage,925.0,2,2.0,2930
+136,"2500 Northside Dr, San Diego, CA 92108",Mission Valley East,Duomo,1090.0,2,2.0,3375
+137,"2500 Northside Dr, San Diego, CA 92108",Mission Valley East,Castello,1162.0,2,2.0,3595
+138,"2500 Northside Dr, San Diego, CA 92108",Mission Valley East,Emmanuelle,1154.0,2,2.0,3625
+139,"2500 Northside Dr, San Diego, CA 92108",Mission Valley East,Genoa,1138.0,2,2.0,3650
+140,"7936 Avenida Navidad, San Diego, CA 92122",University City,11CA,550.0,1,1.0,2585
+141,"7936 Avenida Navidad, San Diego, CA 92122",University City,11CB,625.0,1,1.0,2700
+142,"7936 Avenida Navidad, San Diego, CA 92122",University City,22CC,1012.0,2,2.0,3430
+143,"2449 Soto St, San Diego, CA 92107",Point Loma Heights,40-110,550.0,1,1.0,2195
+144,"11760 Westview Pkwy, San Diego, CA 92126",Mira Mesa,2 Bedroom 2 Bath A,987.0,2,2.0,3456
+145,"11760 Westview Pkwy, San Diego, CA 92126",Mira Mesa,2 Bedroom 2 Bath C,1214.0,2,2.0,3676
+146,"11760 Westview Pkwy, San Diego, CA 92126",Mira Mesa,2 Bedroom 2 Bath C Renovated,1214.0,2,2.0,3746
+147,"11760 Westview Pkwy, San Diego, CA 92126",Mira Mesa,2 Bedroom 2 Bath B Renovated,1151.0,2,2.0,3785
+148,"2020 El Cajon Blvd, San Diego, CA 92104",University Heights,Pilsner AL4,711.0,1,1.0,2975
+149,"2020 El Cajon Blvd, San Diego, CA 92104",University Heights,Pilsner ALW-Live/Work Loft,865.0,1,1.0,3200
+150,"2020 El Cajon Blvd, San Diego, CA 92104",University Heights,Pilsner AL3,774.0,1,1.0,3310
+151,"2020 El Cajon Blvd, San Diego, CA 92104",University Heights,IPA B2,831.0,2,2.0,3695
+152,"2020 El Cajon Blvd, San Diego, CA 92104",University Heights,IPA B2E,831.0,2,2.0,3775
+153,"2020 El Cajon Blvd, San Diego, CA 92104",University Heights,IPA B4-Penthouse,1310.0,2,2.0,4960
+154,"5165 Luigi Ter, San Diego, CA 92122",University City,Aspire,750.0,1,1.0,2745
+155,"1501 Island Ave, San Diego, CA 92101",East Village,S5,583.0,0,1.0,2363
+156,"1501 Island Ave, San Diego, CA 92101",East Village,S8T,932.0,0,1.0,2368
+157,"1501 Island Ave, San Diego, CA 92101",East Village,A5T,857.0,1,1.0,2773
+158,"1501 Island Ave, San Diego, CA 92101",East Village,A10L,844.0,1,1.0,2806
+159,"1501 Island Ave, San Diego, CA 92101",East Village,A14T,850.0,1,1.0,2869
+160,"1501 Island Ave, San Diego, CA 92101",East Village,A8T,837.0,1,1.0,2881
+161,"1501 Island Ave, San Diego, CA 92101",East Village,A12T,906.0,1,1.0,2882
+162,"1501 Island Ave, San Diego, CA 92101",East Village,A20T,924.0,1,1.0,3049
+163,"1501 Island Ave, San Diego, CA 92101",East Village,A18T,771.0,1,1.0,3135
+164,"1501 Island Ave, San Diego, CA 92101",East Village,A20.1T,903.0,1,1.0,3316
+165,"1501 Island Ave, San Diego, CA 92101",East Village,B8T,1232.0,2,2.0,3329
+166,"1501 Island Ave, San Diego, CA 92101",East Village,B1T,1129.0,2,2.0,3410
+167,"1501 Island Ave, San Diego, CA 92101",East Village,B12T,1163.0,2,2.0,3583
+168,"1501 Island Ave, San Diego, CA 92101",East Village,B17TPH,1543.0,2,2.0,4795
+169,"7084 Friars Rd, San Diego, CA 92111",Mission Valley West,2 Bed 2.5 Bath Plan B,1104.0,2,2.5,3192
+170,"7084 Friars Rd, San Diego, CA 92111",Mission Valley West,2 Bed 2.5 Bath Plan D,1155.0,2,2.5,3242
+171,"7084 Friars Rd, San Diego, CA 92111",Mission Valley West,2 Bed 2 Bath Plan C,1067.0,2,2.0,3250
+172,"7084 Friars Rd, San Diego, CA 92111",Mission Valley West,2 Bed 2.5 Bath Plan C,1347.0,2,2.5,3280
+173,"7084 Friars Rd, San Diego, CA 92111",Mission Valley West,2 Bed 2 Bath Plan B,1121.0,2,2.0,3355
+174,"7084 Friars Rd, San Diego, CA 92111",Mission Valley West,2 Bed 2 Bath Plan E,1187.0,2,2.0,3395
+175,"7084 Friars Rd, San Diego, CA 92111",Mission Valley West,2 Bed 2 Bath Plan F,1174.0,2,2.0,3590
+176,"7084 Friars Rd, San Diego, CA 92111",Mission Valley West,2 Bed 2.5 Bath Plan E,1229.0,2,2.5,3860
+177,"7084 Friars Rd, San Diego, CA 92111",Mission Valley West,3 Bed 2 Bath Plan A,1495.0,3,2.0,4705
+178,"1394 Oro Vista Rd, San Diego, CA 92154",Nestor,260,1018.0,2,2.0,2765
+179,"1394 Oro Vista Rd, San Diego, CA 92154",Nestor,251,1036.0,2,2.0,2785
+180,"1394 Oro Vista Rd, San Diego, CA 92154",Nestor,162,1018.0,2,2.0,2820
+181,"1394 Oro Vista Rd, San Diego, CA 92154",Nestor,136,1018.0,2,2.0,2845
+182,"1394 Oro Vista Rd, San Diego, CA 92154",Nestor,205,1018.0,2,2.0,2845
+183,"1394 Oro Vista Rd, San Diego, CA 92154",Nestor,252,1158.0,3,2.0,2975
+184,"1394 Oro Vista Rd, San Diego, CA 92154",Nestor,245,1158.0,3,2.0,3025
+185,"1394 Oro Vista Rd, San Diego, CA 92154",Nestor,217,1158.0,3,2.0,3145
+186,"969 Market St, San Diego, CA 92101",East Village,Plan A (A1A),710.0,1,1.0,2785
+187,"969 Market St, San Diego, CA 92101",East Village,Plan J (A1CD),1178.0,1,1.0,3169
+188,"969 Market St, San Diego, CA 92101",East Village,Plan E (A1F),1263.0,1,1.0,3240
+189,"969 Market St, San Diego, CA 92101",East Village,Plan C (A1C),895.0,1,1.0,3420
+190,"969 Market St, San Diego, CA 92101",East Village,Plan B (A1B),813.0,1,1.0,3815
+191,"969 Market St, San Diego, CA 92101",East Village,A1.5-PH,1403.0,1,1.5,4125
+192,"969 Market St, San Diego, CA 92101",East Village,Plan S (B2.5),1552.0,2,2.5,4394
+193,"969 Market St, San Diego, CA 92101",East Village,Plan U (C2),1255.0,3,2.0,3859
+194,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 1C,662.0,1,1.0,2231
+195,"1475 Island Ave, San Diego, CA 92101",East Village,1A,594.0,1,1.0,2338
+196,"1475 Island Ave, San Diego, CA 92101",East Village,1C,687.0,1,1.0,2444
+197,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 1A,597.0,1,1.0,2449
+198,"1475 Island Ave, San Diego, CA 92101",East Village,1B,620.0,1,1.0,2569
+199,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 1B,763.0,1,1.0,2627
+200,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 1D,668.0,1,1.0,2676
+201,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 2D,967.0,2,2.0,2740
+202,"1475 Island Ave, San Diego, CA 92101",East Village,2A,883.0,2,2.0,3060
+203,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 2B,957.0,2,2.0,3100
+204,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 2C,958.0,2,2.0,3100
+205,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 2A,957.0,2,2.0,3110
+206,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 2E,913.0,2,2.0,3190
+207,"1475 Island Ave, San Diego, CA 92101",East Village,2K,959.0,2,2.0,3455
+208,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 2F,1010.0,2,2.0,3525
+209,"1475 Island Ave, San Diego, CA 92101",East Village,2J,1031.0,2,2.0,3525
+210,"1475 Island Ave, San Diego, CA 92101",East Village,2G,1139.0,2,2.0,4130
+211,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 2I,1233.0,2,2.0,4210
+212,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 2H,1433.0,2,2.0,4515
+213,"1475 Island Ave, San Diego, CA 92101",East Village,2C,1262.0,2,2.0,4730
+214,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 3A,1308.0,3,2.0,3995
+215,"1475 Island Ave, San Diego, CA 92101",East Village,3A,1185.0,3,2.0,4025
+216,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 3D,1330.0,3,2.0,4045
+217,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 3C,1328.0,3,2.0,4070
+218,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 3B,1328.0,3,2.0,4095
+219,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 3F,1554.0,3,2.0,4765
+220,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 3E,1529.0,3,2.0,4840
+221,"1475 Island Ave, San Diego, CA 92101",East Village,3E,1861.0,3,3.0,5100
+222,"1475 Island Ave, San Diego, CA 92101",East Village,3F,1935.0,3,3.0,5150
+223,"1475 Island Ave, San Diego, CA 92101",East Village,4A,1432.0,3,2.0,5225
+224,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 3H,1600.0,3,2.0,5280
+225,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 3G,1599.0,3,2.0,5305
+226,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 3I,1869.0,3,3.0,9455
+227,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 3K,1953.0,3,3.0,9830
+228,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 3O,1869.0,3,3.0,10355
+229,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 3L,1969.0,3,3.0,10500
+230,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 3J,1870.0,3,3.0,10500
+231,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 3P,1953.0,3,3.0,10730
+232,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 3N,1870.0,3,3.0,11400
+233,"1475 Island Ave, San Diego, CA 92101",East Village,Spire 3M,1969.0,3,3.0,11400
+234,"2185 Station Village Way, San Diego, CA 92108",Mission Valley East,Residence 1,652.0,1,1.0,2766
+235,"2185 Station Village Way, San Diego, CA 92108",Mission Valley East,Residence 3,750.0,1,1.0,3020
+236,"2185 Station Village Way, San Diego, CA 92108",Mission Valley East,Residence 4,831.0,1,1.0,3117
+237,"2185 Station Village Way, San Diego, CA 92108",Mission Valley East,Residence 2,711.0,1,1.0,3285
+238,"2185 Station Village Way, San Diego, CA 92108",Mission Valley East,Residence 6,1084.0,2,2.0,3168
+239,"2185 Station Village Way, San Diego, CA 92108",Mission Valley East,Residence 5,1078.0,2,2.0,3494
+240,"2185 Station Village Way, San Diego, CA 92108",Mission Valley East,Residence 7,1273.0,2,2.0,3554
+241,"3309 Cowley Way, San Diego, CA 92117",Bay Park,1x1 Summit,650.0,1,1.0,2213
+242,"3309 Cowley Way, San Diego, CA 92117",Bay Park,1x1 Park,650.0,1,1.0,2253
+243,"3309 Cowley Way, San Diego, CA 92117",Bay Park,1x1 Canyon,650.0,1,1.0,2283
+244,"3309 Cowley Way, San Diego, CA 92117",Bay Park,2x1 Canyon,810.0,2,1.0,2711
+245,"3309 Cowley Way, San Diego, CA 92117",Bay Park,2x1 Summit,810.0,2,1.0,2714
+246,"3309 Cowley Way, San Diego, CA 92117",Bay Park,2x1 Park,810.0,2,1.0,2754
+0,"3707 Nobel Dr, San Diego, CA 92122",University City,1 BR 1 BA Reno,575.0,1,1.0,2733
+1,"3707 Nobel Dr, San Diego, CA 92122",University City,1 BR 1 BA Large Reno,642.0,1,1.0,2818
+2,"3707 Nobel Dr, San Diego, CA 92122",University City,2 BR 2 BA Reno,1011.0,2,2.0,4064
+3,"3707 Nobel Dr, San Diego, CA 92122",University City,2 BR 2 BA Large Reno,1069.0,2,2.0,4339
+4,"3417 Lebon Dr, San Diego, CA 92122",University City,Florentine,652.0,1,1.0,2545
+5,"3417 Lebon Dr, San Diego, CA 92122",University City,Babilonia,1004.0,2,2.0,3415
+6,"4275 Mission Bay Dr, San Diego, CA 92109",Mission Bay Park,A01,601.0,1,1.0,3450
+7,"4275 Mission Bay Dr, San Diego, CA 92109",Mission Bay Park,B10,1222.0,2,2.0,3965
+8,"4275 Mission Bay Dr, San Diego, CA 92109",Mission Bay Park,B03,1084.0,2,2.0,4050
+9,"4275 Mission Bay Dr, San Diego, CA 92109",Mission Bay Park,B07,1170.0,2,2.0,4230
+10,"4275 Mission Bay Dr, San Diego, CA 92109",Mission Bay Park,B13,1267.0,2,2.0,4235
+11,"4275 Mission Bay Dr, San Diego, CA 92109",Mission Bay Park,B14.1,1381.0,2,2.0,4385
+12,"820 W G St, San Diego, CA 92101",Marina,Plan A,500.0,0,1.0,2310
+13,"820 W G St, San Diego, CA 92101",Marina,Plan C,541.0,0,1.0,2380
+14,"820 W G St, San Diego, CA 92101",Marina,Plan F,596.0,1,1.0,2535
+15,"820 W G St, San Diego, CA 92101",Marina,Plan G,554.0,1,1.0,2655
+16,"820 W G St, San Diego, CA 92101",Marina,Plan I,640.0,1,1.0,2835
+17,"820 W G St, San Diego, CA 92101",Marina,Plan K,774.0,1,1.0,3135
+18,"3066 N Park Way, San Diego, CA 92104",North Park,208,436.0,1,1.0,2400
+19,"3066 N Park Way, San Diego, CA 92104",North Park,215,450.0,1,1.0,2600
+20,"3066 N Park Way, San Diego, CA 92104",North Park,201,600.0,1,1.0,2850
+21,"4052 1/2 Brant St, San Diego, CA 92103",Bankers Hill,4052 Brant Street,500.0,1,1.0,2150
+22,"3502 Angelucci St, San Diego, CA 92111",Clairemont Mesa East,2x2A,925.0,2,2.0,2636
+23,"434-435 13th St, San Diego, CA 92101",East Village,435306,227.0,0,1.0,1795
+24,"434-435 13th St, San Diego, CA 92101",East Village,434203,254.0,0,1.0,1825
+25,"434-435 13th St, San Diego, CA 92101",East Village,435307,235.0,0,1.0,1825
+26,"434-435 13th St, San Diego, CA 92101",East Village,435403,314.0,0,1.0,1995
+27,"434-435 13th St, San Diego, CA 92101",East Village,435203,319.0,0,1.0,1995
+28,"434-435 13th St, San Diego, CA 92101",East Village,435201,377.0,0,1.0,2300
+29,"5585 Mildred St, San Diego, CA 92110",Morena,311,621.0,0,1.0,2145
+30,"5585 Mildred St, San Diego, CA 92110",Morena,502,554.0,0,1.0,2245
+31,"5585 Mildred St, San Diego, CA 92110",Morena,102,695.0,1,1.0,2550
+32,"5585 Mildred St, San Diego, CA 92110",Morena,107,698.0,1,1.0,2550
+33,"1945 B St, San Diego, CA 92102",Golden Hill,3 Bedroom Renovated Townhome,1064.0,3,2.0,3995
+34,"5410 Repecho Dr, San Diego, CA 92124",Tierrasanta,Ridgepoint,650.0,1,1.0,2580
+35,"5410 Repecho Dr, San Diego, CA 92124",Tierrasanta,Summit,810.0,2,1.0,2855
+36,"2636 Grand Ave, San Diego, CA 92109",Pacific Beach,217,844.0,1,1.0,2895
+37,"2636 Grand Ave, San Diego, CA 92109",Pacific Beach,226,1057.0,2,2.0,3495
+38,"5550 Genesee Ct E, San Diego, CA 92111",Clairemont Mesa East,1x1M,550.0,1,1.0,2169
+39,"11102 Caminito Alvarez, San Diego, CA 92126",Mira Mesa,E1UPGRADE,500.0,0,1.0,2485
+40,"11102 Caminito Alvarez, San Diego, CA 92126",Mira Mesa,B1UPGRADE,767.0,2,1.0,2975
+41,"11102 Caminito Alvarez, San Diego, CA 92126",Mira Mesa,B2,878.0,2,2.0,2990
+42,"11102 Caminito Alvarez, San Diego, CA 92126",Mira Mesa,B1,767.0,2,1.0,2990
+43,"3187 Cowley Way, San Diego, CA 92117",Bay Park,1A,650.0,1,1.0,2488
+44,"3187 Cowley Way, San Diego, CA 92117",Bay Park,2A,875.0,2,2.0,3145
+45,"5526 Lauretta St, San Diego, CA 92110",Morena,101,1161.0,2,2.0,3895
+46,"6935 Paradise Valley Rd, San Diego, CA 92139",Bay Terraces,63,893.0,2,2.0,2345
+47,"12435 Heatherton Ct, San Diego, CA 92128",Sabre Springs,Willow,595.0,1,1.0,2519
+48,"12435 Heatherton Ct, San Diego, CA 92128",Sabre Springs,Twin Oaks,918.0,2,2.0,2894
+49,"12435 Heatherton Ct, San Diego, CA 92128",Sabre Springs,Eucalyptus,918.0,2,2.0,2939
+50,"2835 Alta View Dr, San Diego, CA 92139",Bay Terraces,101,656.0,1,1.0,2310
+51,"2835 Alta View Dr, San Diego, CA 92139",Bay Terraces,204,925.0,2,2.0,2595
+52,"601 11th Ave, San Diego, CA 92101",East Village,1A-R,597.0,0,1.0,2365
+53,"601 11th Ave, San Diego, CA 92101",East Village,OC,599.0,0,1.0,2375
+54,"601 11th Ave, San Diego, CA 92101",East Village,1A-L,595.0,0,1.0,2855
+55,"601 11th Ave, San Diego, CA 92101",East Village,1F-R Balcony,781.0,1,1.0,3650
+56,"601 11th Ave, San Diego, CA 92101",East Village,1F-L,781.0,1,1.0,3680
+57,"601 11th Ave, San Diego, CA 92101",East Village,2B-R Balcony,1017.0,2,1.0,3715
+58,"601 11th Ave, San Diego, CA 92101",East Village,2G Balcony,1253.0,2,2.0,4310
+59,"601 11th Ave, San Diego, CA 92101",East Village,2C-L Balcony,1151.0,2,2.0,4435
+60,"601 11th Ave, San Diego, CA 92101",East Village,2E-L Balcony,1209.0,2,2.0,4785
+61,"601 11th Ave, San Diego, CA 92101",East Village,2D Balcony,1185.0,2,2.0,4865
+62,"601 11th Ave, San Diego, CA 92101",East Village,2H-R Signature,1632.0,2,2.0,6610
+63,"601 11th Ave, San Diego, CA 92101",East Village,2L-R Signature,1717.0,2,2.5,7215
+64,"601 11th Ave, San Diego, CA 92101",East Village,3D Balcony,1297.0,3,2.0,4465
+65,"601 11th Ave, San Diego, CA 92101",East Village,3E Balcony,1429.0,3,2.0,4670
+66,"2799 Adrian St, San Diego, CA 92110",Point Loma Heights,2 Bedroom Cove,1025.0,2,1.0,2960
+67,"2799 Adrian St, San Diego, CA 92110",Point Loma Heights,2 Bedroom Townhome Palms,950.0,2,1.5,3140
+68,"2799 Adrian St, San Diego, CA 92110",Point Loma Heights,3 Bedroom Townhome,1200.0,3,1.5,3550
+69,"1471 8th Ave, San Diego, CA 92101",Cortez Hill,A1,610.0,1,1.0,2399
+70,"1471 8th Ave, San Diego, CA 92101",Cortez Hill,A3,865.0,1,1.5,3015
+71,"1471 8th Ave, San Diego, CA 92101",Cortez Hill,B2,1160.0,2,2.0,3447
+72,"1471 8th Ave, San Diego, CA 92101",Cortez Hill,B1,1160.0,2,2.5,3462
+73,"1471 8th Ave, San Diego, CA 92101",Cortez Hill,B3,1160.0,2,2.5,3507
+74,"4440 Twain Ave, San Diego, CA 92120",Grantville,A Studio,589.0,0,1.0,2385
+75,"4440 Twain Ave, San Diego, CA 92120",Grantville,D 1x1,726.0,1,1.0,2745
+76,"4440 Twain Ave, San Diego, CA 92120",Grantville,C 1x1,648.0,1,1.0,2756
+77,"4440 Twain Ave, San Diego, CA 92120",Grantville,E 1x1,750.0,1,1.0,2830
+78,"4440 Twain Ave, San Diego, CA 92120",Grantville,LW3 1x1.5,1479.0,1,1.5,3569
+79,"4440 Twain Ave, San Diego, CA 92120",Grantville,G 2x2,988.0,2,2.0,3231
+80,"4440 Twain Ave, San Diego, CA 92120",Grantville,I 2x2,1143.0,2,2.0,3500
+81,"699 14th St, San Diego, CA 92101",East Village,Studio A,491.0,0,1.0,2067
+82,"699 14th St, San Diego, CA 92101",East Village,Studio AA,443.0,0,1.0,2179
+83,"699 14th St, San Diego, CA 92101",East Village,Studio V,606.0,0,1.0,2395
+84,"699 14th St, San Diego, CA 92101",East Village,1 Bedroom HH2,532.0,0,1.0,2628
+85,"699 14th St, San Diego, CA 92101",East Village,1 Bedroom U,728.0,1,1.0,2538
+86,"699 14th St, San Diego, CA 92101",East Village,1 Bedroom K,706.0,1,1.0,2583
+87,"699 14th St, San Diego, CA 92101",East Village,1 Bedroom F,772.0,1,1.0,2592
+88,"699 14th St, San Diego, CA 92101",East Village,2 Bedroom Q,861.0,2,1.0,3170
+89,"699 14th St, San Diego, CA 92101",East Village,2 Bedroom T,1069.0,2,1.0,3312
+90,"421 25th St, San Diego, CA 92102",Grant Hill,304,387.0,0,1.0,2050
+91,"421 25th St, San Diego, CA 92102",Grant Hill,,,2,2.0,3000
+92,"3131 Cauby St, San Diego, CA 92110",Midway District,Floorplan XX1,700.0,1,1.0,2420
+93,"3131 Cauby St, San Diego, CA 92110",Midway District,1 Bed 1 Bath,700.0,1,1.0,2420
+94,"3131 Cauby St, San Diego, CA 92110",Midway District,"1ST FL Penthouse, W/D, A/C, EXLG",1200.0,1,1.0,2665
+95,"3131 Cauby St, San Diego, CA 92110",Midway District,1 Bed 1 Bath Large-A/C,700.0,1,1.0,2665
+96,"3131 Cauby St, San Diego, CA 92110",Midway District,AC,1000.0,2,2.0,2620
+97,"3131 Cauby St, San Diego, CA 92110",Midway District,2 Bed 1.5 Bath,1000.0,2,1.5,2620
+98,"3131 Cauby St, San Diego, CA 92110",Midway District,2 Bed 2 Bath-A/C,1000.0,2,2.0,2640
+99,"3131 Cauby St, San Diego, CA 92110",Midway District,2 Bed 1.5 Bath,1000.0,2,1.5,2700
+100,"455 Dennery Rd, San Diego, CA 92154",Ocean Crest,1 x 1,681.0,1,1.0,2661
+101,"455 Dennery Rd, San Diego, CA 92154",Ocean Crest,2 x 2 B,1030.0,2,2.0,2603
+102,"455 Dennery Rd, San Diego, CA 92154",Ocean Crest,2 x 2 B Renovated,1030.0,2,2.0,2873
+103,"3010 Cowley Way, San Diego, CA 92117",Bay Park,2 br/2ba,844.0,2,2.0,2750
+104,"10024 Paseo Montril, San Diego, CA 92129",Rancho Penasquitos,A1,625.0,1,1.0,2540
+105,"10024 Paseo Montril, San Diego, CA 92129",Rancho Penasquitos,A2,701.0,1,1.0,2575
+106,"10024 Paseo Montril, San Diego, CA 92129",Rancho Penasquitos,B1,866.0,2,1.0,3025
+107,"10024 Paseo Montril, San Diego, CA 92129",Rancho Penasquitos,B2,1000.0,2,2.0,3115
+108,"3866 Ingraham St, San Diego, CA 92109",Pacific Beach,Studio,600.0,0,1.0,2342
+109,"3866 Ingraham St, San Diego, CA 92109",Pacific Beach,1x1A,800.0,1,1.0,2845
+110,"3866 Ingraham St, San Diego, CA 92109",Pacific Beach,2x2A,1000.0,2,2.0,3872
+111,"3788 Elliott St, San Diego, CA 92106",Point Loma Heights,1 Bedroom (Oceanview),970.0,1,1.5,3495
+112,"3788 Elliott St, San Diego, CA 92106",Point Loma Heights,2 Bedroom (Oceanview),1335.0,2,2.0,3795
+113,"10802 Camino Ruiz, San Diego, CA 92126",Mira Mesa,A 588 SF Capricorn Square,588.0,1,1.0,2101
+114,"10802 Camino Ruiz, San Diego, CA 92126",Mira Mesa,C 765 SF Mira Crest Casa Capricorn,765.0,1,1.0,2256
+115,"10802 Camino Ruiz, San Diego, CA 92126",Mira Mesa,B 692 SF Casa Ruiz,692.0,1,1.0,2276
+116,"10802 Camino Ruiz, San Diego, CA 92126",Mira Mesa,D 907 SF Capricorn Square,907.0,2,2.0,3050
+117,"10802 Camino Ruiz, San Diego, CA 92126",Mira Mesa,"E 1,006 SF Casa Ruiz",1006.0,2,2.0,3070
+118,"10802 Camino Ruiz, San Diego, CA 92126",Mira Mesa,"F 1,027 SF Mira Crest Casa Capricorn",1027.0,2,2.0,3084
+119,"5540 Ocean Gate Ln, San Diego, CA 92154",Ocean Crest,Pinnacle,723.0,1,1.0,2511
+120,"5540 Ocean Gate Ln, San Diego, CA 92154",Ocean Crest,Catalina,972.0,2,1.0,2795
+121,"5540 Ocean Gate Ln, San Diego, CA 92154",Ocean Crest,Newport,1023.0,2,2.0,2922
+122,"5540 Ocean Gate Ln, San Diego, CA 92154",Ocean Crest,Royale,1203.0,2,2.0,3071
+123,"5540 Ocean Gate Ln, San Diego, CA 92154",Ocean Crest,Coronado,1037.0,2,2.0,3295
+124,"5540 Ocean Gate Ln, San Diego, CA 92154",Ocean Crest,Montecito,1338.0,3,2.0,3307
+125,"3883 Ingraham St, San Diego, CA 92109",Pacific Beach,S1,405.0,0,1.0,2351
+126,"3883 Ingraham St, San Diego, CA 92109",Pacific Beach,A1,664.0,1,1.0,2805
+127,"3883 Ingraham St, San Diego, CA 92109",Pacific Beach,A2,750.0,1,1.0,3035
+128,"3883 Ingraham St, San Diego, CA 92109",Pacific Beach,Furnished-f-A1,664.0,1,1.0,3635
+129,"3883 Ingraham St, San Diego, CA 92109",Pacific Beach,B3,988.0,2,2.0,3780
+130,"3883 Ingraham St, San Diego, CA 92109",Pacific Beach,B1,845.0,2,1.0,3815
+131,"3883 Ingraham St, San Diego, CA 92109",Pacific Beach,B2,910.0,2,2.0,3905
+132,"3883 Ingraham St, San Diego, CA 92109",Pacific Beach,B5,1040.0,2,2.0,3935
+133,"3883 Ingraham St, San Diego, CA 92109",Pacific Beach,B4,1002.0,2,2.0,4000
+134,"3883 Ingraham St, San Diego, CA 92109",Pacific Beach,Furnished-f-B5-2B2B-1040,1040.0,2,2.0,4880
+135,"8775 Costa Verde Blvd, San Diego, CA 92122",University City,Catalina,846.0,1,1.0,2875
+136,"8775 Costa Verde Blvd, San Diego, CA 92122",University City,Meridian with Den Option,857.0,1,1.0,2975
+137,"8775 Costa Verde Blvd, San Diego, CA 92122",University City,Pacifica,1253.0,2,2.0,4000
+138,"8775 Costa Verde Blvd, San Diego, CA 92122",University City,Royale,1286.0,2,2.0,4000
+139,"8775 Costa Verde Blvd, San Diego, CA 92122",University City,Montecito,1416.0,3,2.0,4950
+140,"6850 Mission Gorge Rd, San Diego, CA 92120",Allied Gardens,Blaze,714.0,1,1.0,2548
+141,"6850 Mission Gorge Rd, San Diego, CA 92120",Allied Gardens,The View,733.0,1,1.0,2718
+142,"6850 Mission Gorge Rd, San Diego, CA 92120",Allied Gardens,Greenway,1073.0,2,2.0,3194
+143,"6850 Mission Gorge Rd, San Diego, CA 92120",Allied Gardens,The Cusp,1020.0,2,2.0,3376
+144,"6850 Mission Gorge Rd, San Diego, CA 92120",Allied Gardens,The Edge,1077.0,2,2.0,3452
+145,"6850 Mission Gorge Rd, San Diego, CA 92120",Allied Gardens,Horizon,1363.0,3,2.0,4007
+146,"9320 Hillery Dr, San Diego, CA 92126",Mira Mesa,A Vintage 629 SF,629.0,1,1.0,2503
+147,"9320 Hillery Dr, San Diego, CA 92126",Mira Mesa,B Royale 688 SF,688.0,1,1.0,2599
+148,"9320 Hillery Dr, San Diego, CA 92126",Mira Mesa,D Heritage 817 to 859 SF,817.0,1,1.0,2834
+149,"9320 Hillery Dr, San Diego, CA 92126",Mira Mesa,C Regents 801 to 821 SF,801.0,1,1.0,2856
+150,"9320 Hillery Dr, San Diego, CA 92126",Mira Mesa,A Vintage 629 SF RENOVATED,629.0,1,1.0,2919
+151,"9320 Hillery Dr, San Diego, CA 92126",Mira Mesa,B Royale 688 SF RENOVATED,688.0,1,1.0,2935
+152,"9320 Hillery Dr, San Diego, CA 92126",Mira Mesa,C Regents 801 to 821 SF RENOVATED,801.0,1,1.0,3117
+153,"9320 Hillery Dr, San Diego, CA 92126",Mira Mesa,E Pacifica 974 to 987 SF RENOVATED,974.0,2,2.0,3459
+154,"9320 Hillery Dr, San Diego, CA 92126",Mira Mesa,F Americana 1045 to 1102 SF RENOVATED,1045.0,2,2.0,3549
+155,"9320 Hillery Dr, San Diego, CA 92126",Mira Mesa,H Montclaire 1321 to 1389 SF RENOVATED,1321.0,3,2.0,4193
+156,"1435 Elder Ave, San Diego, CA 92154",Egger Highlands,2 Beds,790.0,2,1.0,1900
+157,"4805 Wind Surf Way, San Diego, CA 92154",Ocean Crest,Residence One,996.0,1,1.0,2951
+158,"4805 Wind Surf Way, San Diego, CA 92154",Ocean Crest,Residence Two Lower,1090.0,2,2.0,2992
+159,"4805 Wind Surf Way, San Diego, CA 92154",Ocean Crest,Residence Two Upper,1184.0,2,2.0,3087
+160,"4805 Wind Surf Way, San Diego, CA 92154",Ocean Crest,Residence Three,1198.0,2,2.0,3102
+161,"4805 Wind Surf Way, San Diego, CA 92154",Ocean Crest,Residence Four Upper,1451.0,3,2.0,3655
+0,"9085 Judicial Dr, San Diego, CA 92122",University City,Chianti,860.0,1,1.0,2700
+1,"9085 Judicial Dr, San Diego, CA 92122",University City,Siena,1110.0,2,2.0,3550
+2,"9085 Judicial Dr, San Diego, CA 92122",University City,Firenze,1332.0,2,2.0,3750
+3,"9085 Judicial Dr, San Diego, CA 92122",University City,Firenze with Mezzanine,1489.0,2,2.0,4500
+4,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,Studio A,532.0,0,1.0,2397
+5,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,One Bed One Bath A,625.0,1,1.0,2923
+6,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,One Bed One Bath C,645.0,1,1.0,2956
+7,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,One Bed One Bath E,700.0,1,1.0,2961
+8,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,One Bed One Bath J,730.0,1,1.0,3036
+9,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,One Bed One Bath I,728.0,1,1.0,3062
+10,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,One Bed One Bath G,714.0,1,1.0,3088
+11,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,One Bed One Bath K,732.0,1,1.0,3125
+12,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,One Bed One Bath H,723.0,1,1.0,3194
+13,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,One Bed One Bath S,950.0,1,1.0,3489
+14,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,One Bed One Bath R,921.0,1,1.0,3490
+15,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,Two Bed Two Bath A,979.0,2,2.0,4015
+16,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,Two Bed Two Bath D,1080.0,2,2.0,4039
+17,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,Two Bed Two Bath I,1102.0,2,2.0,4039
+18,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,Two Bed Two Bath M,1132.0,2,2.0,4079
+19,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,Three Bed Two Bath D,1384.0,3,2.0,4757
+20,"8725 Ariva Ct, San Diego, CA 92123",Kearny Mesa,Three Bed Two Bath F,1409.0,3,2.0,4816
+21,"8506 Villa La Jolla Dr, La Jolla, CA 92037",La Jolla,Plan A,620.0,1,1.0,2755
+22,"8506 Villa La Jolla Dr, La Jolla, CA 92037",La Jolla,Plan B,621.0,1,1.0,2830
+23,"8506 Villa La Jolla Dr, La Jolla, CA 92037",La Jolla,Plan E,968.0,2,2.0,3405
+24,"8506 Villa La Jolla Dr, La Jolla, CA 92037",La Jolla,Plan G,1020.0,2,2.0,3585
+25,"8506 Villa La Jolla Dr, La Jolla, CA 92037",La Jolla,Plan D,945.0,2,2.0,3895
+26,"702 Broadway, San Diego, CA 92101",Core-Columbia,A1,591.0,0,1.0,2621
+27,"702 Broadway, San Diego, CA 92101",Core-Columbia,A2,584.0,0,1.0,2691
+28,"702 Broadway, San Diego, CA 92101",Core-Columbia,A4,577.0,0,1.0,2736
+29,"702 Broadway, San Diego, CA 92101",Core-Columbia,C5 (Den),839.0,1,1.0,2966
+30,"702 Broadway, San Diego, CA 92101",Core-Columbia,B1A,754.0,1,1.0,2977
+31,"702 Broadway, San Diego, CA 92101",Core-Columbia,B9,836.0,1,1.0,2981
+32,"702 Broadway, San Diego, CA 92101",Core-Columbia,B3,746.0,1,1.0,3001
+33,"702 Broadway, San Diego, CA 92101",Core-Columbia,B10,599.0,1,1.0,3047
+34,"702 Broadway, San Diego, CA 92101",Core-Columbia,C5 (Den),839.0,1,1.0,3070
+35,"702 Broadway, San Diego, CA 92101",Core-Columbia,B1b,714.0,1,1.0,3112
+36,"702 Broadway, San Diego, CA 92101",Core-Columbia,B8,741.0,1,1.0,3171
+37,"702 Broadway, San Diego, CA 92101",Core-Columbia,B1c,698.0,1,1.0,3197
+38,"702 Broadway, San Diego, CA 92101",Core-Columbia,B4,753.0,1,1.0,3206
+39,"702 Broadway, San Diego, CA 92101",Core-Columbia,B1,730.0,1,1.0,3227
+40,"702 Broadway, San Diego, CA 92101",Core-Columbia,B5,741.0,1,1.0,3346
+41,"702 Broadway, San Diego, CA 92101",Core-Columbia,B2,760.0,1,1.0,3454
+42,"702 Broadway, San Diego, CA 92101",Core-Columbia,4109,754.0,1,1.0,4325
+43,"702 Broadway, San Diego, CA 92101",Core-Columbia,C3,985.0,2,1.0,3527
+44,"702 Broadway, San Diego, CA 92101",Core-Columbia,D13,1107.0,2,2.0,4230
+45,"702 Broadway, San Diego, CA 92101",Core-Columbia,D3,1100.0,2,2.0,4256
+46,"702 Broadway, San Diego, CA 92101",Core-Columbia,D9,1040.0,2,2.0,4327
+47,"702 Broadway, San Diego, CA 92101",Core-Columbia,D5,1089.0,2,2.0,4382
+48,"702 Broadway, San Diego, CA 92101",Core-Columbia,D1,1093.0,2,2.0,4432
+49,"702 Broadway, San Diego, CA 92101",Core-Columbia,D5b,1077.0,2,2.0,4463
+50,"702 Broadway, San Diego, CA 92101",Core-Columbia,D5a,1038.0,2,2.0,4477
+51,"702 Broadway, San Diego, CA 92101",Core-Columbia,D18,1117.0,2,2.0,4665
+52,"702 Broadway, San Diego, CA 92101",Core-Columbia,D4,1131.0,2,2.0,4730
+53,"702 Broadway, San Diego, CA 92101",Core-Columbia,D7,1182.0,2,2.0,5650
+54,"702 Broadway, San Diego, CA 92101",Core-Columbia,4108,1182.0,2,2.0,7343
+55,"10360 Maya Linda Rd, San Diego, CA 92126",Mira Mesa,Studio 1 Bath,425.0,0,1.0,2171
+56,"10360 Maya Linda Rd, San Diego, CA 92126",Mira Mesa,1 Bed 1 Bath,638.0,1,1.0,2349
+57,"10360 Maya Linda Rd, San Diego, CA 92126",Mira Mesa,2 Bed 2 Bath,880.0,2,2.0,2849
+58,"14031 Mango Dr, Del Mar, CA 92014",Del Mar Heights,Pacifica,765.0,1,1.0,3125
+59,"14031 Mango Dr, Del Mar, CA 92014",Del Mar Heights,Sands,1027.0,2,2.0,3825
+60,"8720 Costa Verde Blvd, San Diego, CA 92122",University City,Pinnacle,834.0,1,1.0,2610
+61,"8720 Costa Verde Blvd, San Diego, CA 92122",University City,Pinnacle with Loft option,962.0,1,1.0,3010
+62,"8720 Costa Verde Blvd, San Diego, CA 92122",University City,Newport,1162.0,2,2.0,3710
+63,"8720 Costa Verde Blvd, San Diego, CA 92122",University City,Lakeview with Den,1396.0,2,2.0,4185
+64,"8720 Costa Verde Blvd, San Diego, CA 92122",University City,Cabrillo,1477.0,2,2.0,4360
+65,"9800 Mira Lee Way, San Diego, CA 92126",Mira Mesa,Toscana,1104.0,1,1.0,3000
+66,"9800 Mira Lee Way, San Diego, CA 92126",Mira Mesa,Siena,1272.0,2,2.0,3275
+67,"9800 Mira Lee Way, San Diego, CA 92126",Mira Mesa,Cabrillo,1233.0,2,2.0,3300
+68,"9800 Mira Lee Way, San Diego, CA 92126",Mira Mesa,Firenze,1391.0,2,2.0,3425
+69,"9800 Mira Lee Way, San Diego, CA 92126",Mira Mesa,Tesoro,1384.0,2,2.0,3600
+70,"9800 Mira Lee Way, San Diego, CA 92126",Mira Mesa,Palazzo,1526.0,2,2.0,3775
+71,"9800 Mira Lee Way, San Diego, CA 92126",Mira Mesa,Ventura,1461.0,3,2.0,4250
+72,"9800 Mira Lee Way, San Diego, CA 92126",Mira Mesa,Messina,1545.0,3,2.0,4275
+73,"9800 Mira Lee Way, San Diego, CA 92126",Mira Mesa,Contessa,,3,2.0,4750
+74,"3443 Sandrock Rd, San Diego, CA 92123",Serra Mesa,Aspire,600.0,1,1.0,2295
+75,"300 14th St, San Diego, CA 92101",East Village,s3,536.0,0,1.0,2418
+76,"300 14th St, San Diego, CA 92101",East Village,s4,537.0,0,1.0,2473
+77,"300 14th St, San Diego, CA 92101",East Village,s5,520.0,0,1.0,2475
+78,"300 14th St, San Diego, CA 92101",East Village,a1,679.0,1,1.0,2950
+79,"300 14th St, San Diego, CA 92101",East Village,a2,734.0,1,1.0,3015
+80,"300 14th St, San Diego, CA 92101",East Village,a3,734.0,1,1.0,3080
+81,"300 14th St, San Diego, CA 92101",East Village,a5,739.0,1,1.0,3320
+82,"300 14th St, San Diego, CA 92101",East Village,a4,726.0,1,1.0,3455
+83,"300 14th St, San Diego, CA 92101",East Village,a8,878.0,1,1.0,3685
+84,"300 14th St, San Diego, CA 92101",East Village,b1,857.0,2,2.0,3650
+85,"300 14th St, San Diego, CA 92101",East Village,b3,1103.0,2,2.0,3650
+86,"300 14th St, San Diego, CA 92101",East Village,b4,1104.0,2,2.0,3650
+87,"300 14th St, San Diego, CA 92101",East Village,b8,1605.0,2,2.0,4799
+88,"300 14th St, San Diego, CA 92101",East Village,b6,1157.0,2,2.0,5031
+89,"1440 Columbia St, San Diego, CA 92101",Little Italy,S1,546.0,0,1.0,3131
+90,"1440 Columbia St, San Diego, CA 92101",Little Italy,S2,588.0,0,1.0,3243
+91,"1440 Columbia St, San Diego, CA 92101",Little Italy,S4,636.0,0,1.0,4155
+92,"1440 Columbia St, San Diego, CA 92101",Little Italy,A3,767.0,1,1.0,3919
+93,"1440 Columbia St, San Diego, CA 92101",Little Italy,A4,784.0,1,1.0,4300
+94,"1440 Columbia St, San Diego, CA 92101",Little Italy,A7,893.0,1,1.0,4803
+95,"1440 Columbia St, San Diego, CA 92101",Little Italy,A8,1004.0,1,1.0,5200
+96,"1440 Columbia St, San Diego, CA 92101",Little Italy,C7,2044.0,2,2.0,7948
+97,"1440 Columbia St, San Diego, CA 92101",Little Italy,C3,1278.0,3,2.0,5767
+98,"7681 Palmilla Dr, San Diego, CA 92122",University City,Pinnacle,880.0,1,1.0,2650
+99,"7681 Palmilla Dr, San Diego, CA 92122",University City,Newport,1300.0,2,2.0,3600
+100,"7681 Palmilla Dr, San Diego, CA 92122",University City,Belmont I,1270.0,2,2.0,3600
+101,"1907 Columbia St, San Diego, CA 92101",Little Italy,One Bedroom,750.0,1,1.0,2745
+102,"3700 10th Ave, San Diego, CA 92103",Hillcrest,studio,400.0,0,1.0,2050
+103,"3700 10th Ave, San Diego, CA 92103",Hillcrest,2 Bedroom,800.0,2,1.0,3025
+104,"4470 Euclid Ave, San Diego, CA 92115",Talmadge,Y,,2,1.0,2395
+105,"7575 Linda Vista Rd, San Diego, CA 92111",Linda Vista,Studio,510.0,0,1.0,1995
+106,"561 W San Ysidro Blvd, San Diego, CA 92173",San Ysidro,Plan A | 1x1,637.0,1,1.0,2000
+107,"9253 Regents Rd, La Jolla, CA 92037",University City,Ruby,753.0,1,1.0,3135
+108,"9253 Regents Rd, La Jolla, CA 92037",University City,Garnet,1110.0,2,2.0,4070
+109,"9253 Regents Rd, La Jolla, CA 92037",University City,Opal,1210.0,2,2.0,4220
+110,"330 13th St, San Diego, CA 92101",East Village,ST-H,619.0,0,1.0,2401
+111,"330 13th St, San Diego, CA 92101",East Village,ST-P,579.0,0,1.0,2440
+112,"330 13th St, San Diego, CA 92101",East Village,ST-B,652.0,0,1.0,2536
+113,"330 13th St, San Diego, CA 92101",East Village,ST-F,706.0,0,1.0,2616
+114,"330 13th St, San Diego, CA 92101",East Village,1-E,724.0,1,1.0,2671
+115,"330 13th St, San Diego, CA 92101",East Village,1-G1,782.0,1,1.0,2893
+116,"330 13th St, San Diego, CA 92101",East Village,1-T,686.0,1,1.0,2918
+117,"330 13th St, San Diego, CA 92101",East Village,1-S,723.0,1,1.0,2993
+118,"330 13th St, San Diego, CA 92101",East Village,1-N,858.0,1,1.0,3088
+119,"330 13th St, San Diego, CA 92101",East Village,2-SL1,1142.0,1,1.0,4513
+120,"330 13th St, San Diego, CA 92101",East Village,2-Q,1180.0,2,2.0,4423
+121,"330 13th St, San Diego, CA 92101",East Village,2-K,1392.0,2,2.0,4709
+122,"375 Camino De La Reina, San Diego, CA 92108",Mission Valley East,A1A1 Jr 1x1,566.0,1,1.0,2696
+123,"375 Camino De La Reina, San Diego, CA 92108",Mission Valley East,A5 1x1,740.0,1,1.0,2924
+124,"375 Camino De La Reina, San Diego, CA 92108",Mission Valley East,A7 1x1,836.0,1,1.0,3141
+125,"375 Camino De La Reina, San Diego, CA 92108",Mission Valley East,A11 1x1,942.0,1,1.0,3411
+126,"375 Camino De La Reina, San Diego, CA 92108",Mission Valley East,B3 2x2,1079.0,2,2.0,3538
+127,"375 Camino De La Reina, San Diego, CA 92108",Mission Valley East,B4 2x2,1083.0,2,2.0,3543
+128,"375 Camino De La Reina, San Diego, CA 92108",Mission Valley East,B1 2x2,953.0,2,2.0,3608
+129,"375 Camino De La Reina, San Diego, CA 92108",Mission Valley East,B6 2x2,1193.0,2,2.0,3878
+130,"3175 Cauby St, San Diego, CA 92110",Midway District,1 BR,636.0,1,1.0,2275
+131,"3175 Cauby St, San Diego, CA 92110",Midway District,2 BR,918.0,2,2.0,2995
+132,"7777 Westside Dr, San Diego, CA 92108",Serra Mesa,PLAN S1,546.0,0,1.0,2493
+133,"7777 Westside Dr, San Diego, CA 92108",Serra Mesa,PLAN A1,620.0,1,1.0,2935
+134,"7777 Westside Dr, San Diego, CA 92108",Serra Mesa,PLAN A2,722.0,1,1.0,3084
+135,"7777 Westside Dr, San Diego, CA 92108",Serra Mesa,PLAN A3,815.0,1,1.0,3223
+136,"7777 Westside Dr, San Diego, CA 92108",Serra Mesa,PLAN B1,1045.0,2,2.0,3505
+137,"7777 Westside Dr, San Diego, CA 92108",Serra Mesa,PLAN B2,1147.0,2,2.0,3755
+138,"7777 Westside Dr, San Diego, CA 92108",Serra Mesa,PLAN C1,1355.0,3,2.0,4551
+139,"1919 Pacific Hwy, San Diego, CA 92101",Harborview,J1,605.0,1,1.0,3677
+140,"1919 Pacific Hwy, San Diego, CA 92101",Harborview,A3,702.0,1,1.0,3762
+141,"1919 Pacific Hwy, San Diego, CA 92101",Harborview,A12,922.0,1,1.0,4702
+142,"1919 Pacific Hwy, San Diego, CA 92101",Harborview,A8,780.0,1,1.0,4826
+143,"1919 Pacific Hwy, San Diego, CA 92101",Harborview,B8,1302.0,2,2.0,4781
+144,"1919 Pacific Hwy, San Diego, CA 92101",Harborview,B10,1604.0,2,2.0,5731
+145,"1919 Pacific Hwy, San Diego, CA 92101",Harborview,B7,1346.0,2,2.0,6176
+146,"1919 Pacific Hwy, San Diego, CA 92101",Harborview,B3,1439.0,2,2.0,6277
+147,"899 Park Blvd, San Diego, CA 92101",East Village,S03,544.0,0,1.0,2160
+148,"899 Park Blvd, San Diego, CA 92101",East Village,S02,525.0,0,1.0,2370
+149,"899 Park Blvd, San Diego, CA 92101",East Village,A04,622.0,1,1.0,2385
+150,"899 Park Blvd, San Diego, CA 92101",East Village,A02,648.0,1,1.0,2410
+151,"899 Park Blvd, San Diego, CA 92101",East Village,A01,591.0,1,1.0,2485
+152,"899 Park Blvd, San Diego, CA 92101",East Village,A13,797.0,1,1.0,2535
+153,"899 Park Blvd, San Diego, CA 92101",East Village,A03,613.0,1,1.0,2550
+154,"899 Park Blvd, San Diego, CA 92101",East Village,A25L,859.0,1,1.0,2780
+155,"899 Park Blvd, San Diego, CA 92101",East Village,A32L,983.0,1,1.5,2825
+156,"899 Park Blvd, San Diego, CA 92101",East Village,A30L,978.0,1,2.0,3110
+157,"899 Park Blvd, San Diego, CA 92101",East Village,B06,1234.0,2,2.0,3725
+158,"4981 Catoctin Dr, San Diego, CA 92115",College East,1x1A,540.0,1,1.0,1893
+159,"4981 Catoctin Dr, San Diego, CA 92115",College East,2x2A,940.0,2,2.0,2863
+160,"4981 Catoctin Dr, San Diego, CA 92115",College East,3x1.5A,1200.0,3,1.5,3674
+161,"4560 Mission Gorge Pl, San Diego, CA 92120",Grantville,S1,604.0,0,1.0,2373
+162,"4560 Mission Gorge Pl, San Diego, CA 92120",Grantville,A3,748.0,1,1.0,2450
+163,"4560 Mission Gorge Pl, San Diego, CA 92120",Grantville,A2,748.0,1,1.0,2462
+164,"4560 Mission Gorge Pl, San Diego, CA 92120",Grantville,A5,795.0,1,1.0,2525
+165,"4560 Mission Gorge Pl, San Diego, CA 92120",Grantville,A4,785.0,1,1.0,2625
+166,"4560 Mission Gorge Pl, San Diego, CA 92120",Grantville,LW,1157.0,1,1.5,3094
+167,"4560 Mission Gorge Pl, San Diego, CA 92120",Grantville,B1,1135.0,2,2.0,3444
+168,"4560 Mission Gorge Pl, San Diego, CA 92120",Grantville,B3,1170.0,2,2.0,3533
+169,"4560 Mission Gorge Pl, San Diego, CA 92120",Grantville,B2,1150.0,2,2.0,3539
+170,"4560 Mission Gorge Pl, San Diego, CA 92120",Grantville,C2,1529.0,3,3.0,4998
+171,"4633 Governor Dr, San Diego, CA 92122",University City,Garden Grove,1143.0,2,2.0,3328
+172,"4050 3rd Ave, San Diego, CA 92103",Hillcrest,Uptown,850.0,2,2.0,3095
+173,"2745 Meadow Lark Dr, San Diego, CA 92123",Bird Land,A2,500.0,1,1.0,2275
+174,"2745 Meadow Lark Dr, San Diego, CA 92123",Bird Land,B1,875.0,2,1.0,2929
+175,"6975 Golfcrest Dr, San Diego, CA 92119",Lake Murray,Plan A,670.0,1,1.0,2391
+176,"6975 Golfcrest Dr, San Diego, CA 92119",Lake Murray,Plan C,995.0,2,2.0,3050
+177,"6975 Golfcrest Dr, San Diego, CA 92119",Lake Murray,Plan B,897.0,2,2.0,3269
+178,"5080 Camino Del Arroyo, San Diego, CA 92108",Mission Valley East,Studio,399.0,0,1.0,2483
+179,"5080 Camino Del Arroyo, San Diego, CA 92108",Mission Valley East,A1,717.0,1,1.0,2990
+180,"5080 Camino Del Arroyo, San Diego, CA 92108",Mission Valley East,A1.1,700.0,1,1.0,3030
+181,"5080 Camino Del Arroyo, San Diego, CA 92108",Mission Valley East,A3,935.0,1,1.0,3255
+182,"5080 Camino Del Arroyo, San Diego, CA 92108",Mission Valley East,B1,1089.0,2,2.0,3410
+183,"5080 Camino Del Arroyo, San Diego, CA 92108",Mission Valley East,B3,1105.0,2,2.0,3598
+184,"4200 Brooke Ct, San Diego, CA 92122",University City,1B-2 & 2A,988.0,1,1.0,3425
+185,"4200 Brooke Ct, San Diego, CA 92122",University City,1B-4 & 4A,991.0,1,1.0,3465
+186,"4200 Brooke Ct, San Diego, CA 92122",University City,1B-3 & 3A,1022.0,1,1.0,3500
+187,"4200 Brooke Ct, San Diego, CA 92122",University City,1B-1B,1161.0,1,1.0,3500
+188,"4200 Brooke Ct, San Diego, CA 92122",University City,1B-1A,1113.0,1,1.0,4000
+189,"4200 Brooke Ct, San Diego, CA 92122",University City,1B-1,1260.0,1,1.0,4025
+190,"4200 Brooke Ct, San Diego, CA 92122",University City,2B-6 & 6A,1152.0,2,2.0,4090
+191,"4200 Brooke Ct, San Diego, CA 92122",University City,2B-7,1392.0,2,2.0,4415
+192,"4200 Brooke Ct, San Diego, CA 92122",University City,2A.1,1407.0,2,2.0,4465
+193,"4200 Brooke Ct, San Diego, CA 92122",University City,2B-2A & 2B,1497.0,2,2.0,4525
+194,"4200 Brooke Ct, San Diego, CA 92122",University City,2C,1578.0,2,2.0,4535
+195,"4200 Brooke Ct, San Diego, CA 92122",University City,2B-1 & 1A,1300.0,2,2.0,4615
+196,"4200 Brooke Ct, San Diego, CA 92122",University City,"2B-3, 3A & 3B",1325.0,2,2.0,4650
+197,"4200 Brooke Ct, San Diego, CA 92122",University City,2B-4,1437.0,2,2.0,4740
+198,"4200 Brooke Ct, San Diego, CA 92122",University City,2D,1739.0,2,2.0,4915
+199,"4200 Brooke Ct, San Diego, CA 92122",University City,2B-2,1602.0,2,2.0,5090
+200,"4200 Brooke Ct, San Diego, CA 92122",University City,2B-8,1514.0,2,2.0,5100
+201,"4200 Brooke Ct, San Diego, CA 92122",University City,2B-5,1861.0,2,2.0,5525
+202,"4200 Brooke Ct, San Diego, CA 92122",University City,2TH-A,1745.0,2,2.5,6025
+203,"4200 Brooke Ct, San Diego, CA 92122",University City,2TH-B,1927.0,2,2.5,6235
+204,"4200 Brooke Ct, San Diego, CA 92122",University City,3A,1710.0,3,2.0,6265
+205,"4200 Brooke Ct, San Diego, CA 92122",University City,3B-1,1870.0,3,2.0,6765
+206,"4200 Brooke Ct, San Diego, CA 92122",University City,3TH-E,2782.0,3,3.0,8560
+207,"8465 Regents Rd, San Diego, CA 92122",University City,San Miguel,622.0,1,1.0,2913
+208,"8465 Regents Rd, San Diego, CA 92122",University City,San Clemente,710.0,1,1.0,3302
+209,"8465 Regents Rd, San Diego, CA 92122",University City,Main Top Island,810.0,1,1.0,3337
+210,"8465 Regents Rd, San Diego, CA 92122",University City,Angel Island,832.0,1,1.0,3422
+211,"8465 Regents Rd, San Diego, CA 92122",University City,Santa Barbara,1144.0,2,2.0,3865
+212,"8465 Regents Rd, San Diego, CA 92122",University City,Pahoa Island,1123.0,2,2.0,3890
+213,"8465 Regents Rd, San Diego, CA 92122",University City,Santa Catalina,1088.0,2,2.0,3901
+214,"7901 Harmarsh St, San Diego, CA 92123",Bird Land,Two Bedroom,950.0,2,1.5,2557
+215,"7901 Harmarsh St, San Diego, CA 92123",Bird Land,Three Bedroom,1125.0,3,1.5,3335
+216,"7800 Westside Dr, San Diego, CA 92108",Serra Mesa,B,760.0,1,1.0,2882
+217,"7800 Westside Dr, San Diego, CA 92108",Serra Mesa,A1,651.0,1,1.0,2906
+218,"7800 Westside Dr, San Diego, CA 92108",Serra Mesa,C,1093.0,2,2.0,3582
+219,"7800 Westside Dr, San Diego, CA 92108",Serra Mesa,E,1174.0,2,2.0,3635
+220,"7800 Westside Dr, San Diego, CA 92108",Serra Mesa,F,1366.0,3,2.0,4447
+221,"310 A St, San Diego, CA 92101",Core-Columbia,B,530.0,0,1.0,2718
+222,"310 A St, San Diego, CA 92101",Core-Columbia,E,579.0,0,1.0,3173
+223,"310 A St, San Diego, CA 92101",Core-Columbia,F,657.0,1,1.0,3003
+224,"310 A St, San Diego, CA 92101",Core-Columbia,H,672.0,1,1.0,3018
+225,"310 A St, San Diego, CA 92101",Core-Columbia,L,758.0,1,1.0,3288
+226,"310 A St, San Diego, CA 92101",Core-Columbia,I,694.0,1,1.0,3303
+227,"310 A St, San Diego, CA 92101",Core-Columbia,J,746.0,1,1.0,3388
+228,"310 A St, San Diego, CA 92101",Core-Columbia,K,753.0,1,1.0,3393
+229,"310 A St, San Diego, CA 92101",Core-Columbia,Q,901.0,1,1.0,3425
+230,"310 A St, San Diego, CA 92101",Core-Columbia,O,841.0,1,1.0,3685
+231,"310 A St, San Diego, CA 92101",Core-Columbia,P,872.0,1,1.0,3809
+232,"310 A St, San Diego, CA 92101",Core-Columbia,PH02,694.0,1,1.0,3974
+233,"310 A St, San Diego, CA 92101",Core-Columbia,PH04,945.0,1,1.0,4629
+234,"310 A St, San Diego, CA 92101",Core-Columbia,PH05,811.0,1,1.0,4874
+235,"310 A St, San Diego, CA 92101",Core-Columbia,U,1166.0,2,2.0,4284
+236,"310 A St, San Diego, CA 92101",Core-Columbia,S,1150.0,2,2.0,4573
+237,"310 A St, San Diego, CA 92101",Core-Columbia,T,1159.0,2,2.0,4680
+238,"310 A St, San Diego, CA 92101",Core-Columbia,X,1310.0,2,2.0,4692
+239,"310 A St, San Diego, CA 92101",Core-Columbia,PH01,1376.0,2,2.0,6434
+240,"310 A St, San Diego, CA 92101",Core-Columbia,Y,1418.0,2,2.0,6457
+241,"310 A St, San Diego, CA 92101",Core-Columbia,PH03,1220.0,2,2.0,6624
+242,"310 A St, San Diego, CA 92101",Core-Columbia,PH08,2062.0,2,2.0,8971
+243,"7205 Charmant Dr, San Diego, CA 92122",University City,626-firstfloor,626.0,1,1.0,2900
+244,"7205 Charmant Dr, San Diego, CA 92122",University City,626,626.0,1,1.0,3025
+245,"7205 Charmant Dr, San Diego, CA 92122",University City,Furnished-f-626SF1st,626.0,1,1.0,3665
+246,"7205 Charmant Dr, San Diego, CA 92122",University City,727-firstfloor,727.0,1,1.0,3714
+247,"7205 Charmant Dr, San Diego, CA 92122",University City,925-firstfloor,925.0,2,1.0,3450
+248,"1980 Kettner Blvd, San Diego, CA 92101",Harborview,Con Amore,589.0,0,1.0,2810
+249,"1980 Kettner Blvd, San Diego, CA 92101",Harborview,Belvedere,725.0,0,1.0,3461
+250,"1980 Kettner Blvd, San Diego, CA 92101",Harborview,Vicino Al Mare,717.0,1,1.0,4012
+251,"1980 Kettner Blvd, San Diego, CA 92101",Harborview,Di Lusso,1195.0,1,1.0,4785
+252,"1980 Kettner Blvd, San Diego, CA 92101",Harborview,Buona Fortuna,979.0,2,2.0,4497
+253,"1980 Kettner Blvd, San Diego, CA 92101",Harborview,Armonioso,1263.0,2,2.0,4961
+254,"1980 Kettner Blvd, San Diego, CA 92101",Harborview,Casa Di Fortuna,1144.0,2,2.0,4991
+255,"1980 Kettner Blvd, San Diego, CA 92101",Harborview,Il Palazzo,1200.0,2,2.0,6273
+0,"6575 Jaffe Ct, San Diego, CA 92119",Lake Murray,Studio,450.0,0,1.0,1961
+1,"6575 Jaffe Ct, San Diego, CA 92119",Lake Murray,1B1,800.0,1,1.0,2596
+2,"6575 Jaffe Ct, San Diego, CA 92119",Lake Murray,1A1,755.0,1,1.0,2638
+3,"6575 Jaffe Ct, San Diego, CA 92119",Lake Murray,3a3,1100.0,3,2.0,3199
+4,"13385 Highlands Pl, San Diego, CA 92130",Carmel Valley,A1,605.0,1,1.0,3257
+5,"13385 Highlands Pl, San Diego, CA 92130",Carmel Valley,A4,750.0,1,1.0,3402
+6,"13385 Highlands Pl, San Diego, CA 92130",Carmel Valley,A2,709.0,1,1.0,3412
+7,"13385 Highlands Pl, San Diego, CA 92130",Carmel Valley,A5 LOFT,868.0,1,1.0,3622
+8,"13385 Highlands Pl, San Diego, CA 92130",Carmel Valley,B1,999.0,2,2.0,3826
+9,"13385 Highlands Pl, San Diego, CA 92130",Carmel Valley,B3,1067.0,2,2.0,3946
+10,"13385 Highlands Pl, San Diego, CA 92130",Carmel Valley,B4,1091.0,2,2.0,4001
+11,"13385 Highlands Pl, San Diego, CA 92130",Carmel Valley,B5,1166.0,2,2.0,4026
+12,"10615 Calle Mar De Mariposa, San Diego, CA 92130",Carmel Valley,Cadiz,1203.0,3,2.0,3825
+13,"11355 Zapata Ave, San Diego, CA 92126",Mira Mesa,Plan B,954.0,2,2.0,2845
+14,"2155 Kettner Blvd, San Diego, CA 92101",Little Italy,A3,511.0,0,1.0,2992
+15,"2155 Kettner Blvd, San Diego, CA 92101",Little Italy,B1,713.0,1,1.0,3223
+16,"2155 Kettner Blvd, San Diego, CA 92101",Little Italy,C2.1,1063.0,2,2.0,4170
+17,"2155 Kettner Blvd, San Diego, CA 92101",Little Italy,C1,1029.0,2,2.0,4310
+18,"2155 Kettner Blvd, San Diego, CA 92101",Little Italy,C3,1206.0,2,2.0,4395
+19,"2155 Kettner Blvd, San Diego, CA 92101",Little Italy,PH1,1374.0,2,2.0,6156
+20,"4655 Governor Dr, San Diego, CA 92122",University City,HUNTINGTON,1059.0,2,2.0,2949
+21,"100 Park Plz, San Diego, CA 92101",East Village,A-01,602.0,0,1.0,2199
+22,"100 Park Plz, San Diego, CA 92101",East Village,T-A-04,636.0,0,1.0,2204
+23,"100 Park Plz, San Diego, CA 92101",East Village,T-A-08,652.0,0,1.0,2239
+24,"100 Park Plz, San Diego, CA 92101",East Village,T-A-01,524.0,0,1.0,2259
+25,"100 Park Plz, San Diego, CA 92101",East Village,A-13,509.0,0,1.0,2270
+26,"100 Park Plz, San Diego, CA 92101",East Village,T-A-06,703.0,0,1.0,2287
+27,"100 Park Plz, San Diego, CA 92101",East Village,A-11A,518.0,0,1.0,2301
+28,"100 Park Plz, San Diego, CA 92101",East Village,A-31B,561.0,0,1.0,2350
+29,"100 Park Plz, San Diego, CA 92101",East Village,A-12,644.0,0,1.0,2366
+30,"100 Park Plz, San Diego, CA 92101",East Village,A-32,556.0,0,1.0,2380
+31,"100 Park Plz, San Diego, CA 92101",East Village,T-A-03,610.0,0,1.0,2474
+32,"100 Park Plz, San Diego, CA 92101",East Village,T-A-02,550.0,0,1.0,2709
+33,"100 Park Plz, San Diego, CA 92101",East Village,LB-31A F,804.0,0,1.0,2980
+34,"100 Park Plz, San Diego, CA 92101",East Village,B-35,817.0,1,1.0,2817
+35,"100 Park Plz, San Diego, CA 92101",East Village,B-39,688.0,1,1.0,2819
+36,"100 Park Plz, San Diego, CA 92101",East Village,B-38,768.0,1,1.0,2826
+37,"100 Park Plz, San Diego, CA 92101",East Village,B-11,743.0,1,1.0,2874
+38,"100 Park Plz, San Diego, CA 92101",East Village,T-B-09,907.0,1,1.0,3120
+39,"100 Park Plz, San Diego, CA 92101",East Village,T-B-06,765.0,1,1.0,3130
+40,"100 Park Plz, San Diego, CA 92101",East Village,T-B-12,855.0,1,1.0,3155
+41,"100 Park Plz, San Diego, CA 92101",East Village,T-B-05,770.0,1,1.0,3244
+42,"100 Park Plz, San Diego, CA 92101",East Village,B-01a,839.0,1,1.0,3309
+43,"100 Park Plz, San Diego, CA 92101",East Village,T-B-10,945.0,1,1.0,3335
+44,"100 Park Plz, San Diego, CA 92101",East Village,T-B-07,835.0,1,1.0,3345
+45,"100 Park Plz, San Diego, CA 92101",East Village,T-B-04,816.0,1,1.0,3450
+46,"100 Park Plz, San Diego, CA 92101",East Village,B-02,1057.0,1,1.0,3515
+47,"100 Park Plz, San Diego, CA 92101",East Village,T-B-03,844.0,1,1.0,3630
+48,"100 Park Plz, San Diego, CA 92101",East Village,T-B-01,785.0,1,1.0,3775
+49,"100 Park Plz, San Diego, CA 92101",East Village,T-B-02,786.0,1,1.0,3925
+50,"100 Park Plz, San Diego, CA 92101",East Village,LW-01,1542.0,1,1.5,3976
+51,"100 Park Plz, San Diego, CA 92101",East Village,C-11,1205.0,2,2.0,3748
+52,"100 Park Plz, San Diego, CA 92101",East Village,C-36,1098.0,2,2.0,3896
+53,"100 Park Plz, San Diego, CA 92101",East Village,C-13,1318.0,2,2.0,4051
+54,"100 Park Plz, San Diego, CA 92101",East Village,C-37,1280.0,2,2.0,4076
+55,"100 Park Plz, San Diego, CA 92101",East Village,C-01,1167.0,2,2.0,4456
+56,"100 Park Plz, San Diego, CA 92101",East Village,C-01a,1200.0,2,2.0,4486
+57,"100 Park Plz, San Diego, CA 92101",East Village,T-C-07,1428.0,2,2.0,4688
+58,"100 Park Plz, San Diego, CA 92101",East Village,T-C-01,1187.0,2,2.0,4726
+59,"100 Park Plz, San Diego, CA 92101",East Village,C-01b,1087.0,2,2.0,4739
+60,"100 Park Plz, San Diego, CA 92101",East Village,T-C-03,1439.0,2,2.0,5386
+61,"100 Park Plz, San Diego, CA 92101",East Village,T-C-09,1134.0,2,2.0,5471
+62,"100 Park Plz, San Diego, CA 92101",East Village,T-C-04,1493.0,2,2.0,6086
+63,"100 Park Plz, San Diego, CA 92101",East Village,T-C-13,1743.0,2,2.0,6711
+64,"100 Park Plz, San Diego, CA 92101",East Village,T-P2,1848.0,2,2.0,9038
+65,"100 Park Plz, San Diego, CA 92101",East Village,D-01,1476.0,3,2.0,5429
+66,"100 Park Plz, San Diego, CA 92101",East Village,D-01a,1733.0,3,2.0,5748
+67,"9065 Sydney Ct, San Diego, CA 92122",University City,Escape,874.0,1,1.0,2810
+68,"9065 Sydney Ct, San Diego, CA 92122",University City,Voyage,1516.0,3,2.0,5080
+69,"4890 Sunroad Centrum Ln, San Diego, CA 92123",Kearny Mesa,S1,596.0,0,1.0,2604
+70,"4890 Sunroad Centrum Ln, San Diego, CA 92123",Kearny Mesa,A2,726.0,1,1.0,3321
+71,"4890 Sunroad Centrum Ln, San Diego, CA 92123",Kearny Mesa,A4,744.0,1,1.0,3338
+72,"4890 Sunroad Centrum Ln, San Diego, CA 92123",Kearny Mesa,A3,740.0,1,1.0,3376
+73,"4890 Sunroad Centrum Ln, San Diego, CA 92123",Kearny Mesa,A7,933.0,1,1.0,3703
+74,"4890 Sunroad Centrum Ln, San Diego, CA 92123",Kearny Mesa,B3,1046.0,2,2.0,4397
+75,"4890 Sunroad Centrum Ln, San Diego, CA 92123",Kearny Mesa,B5,1072.0,2,2.0,4635
+76,"4890 Sunroad Centrum Ln, San Diego, CA 92123",Kearny Mesa,C1,1331.0,3,2.0,4355
+77,"3801 Marquette Pl, San Diego, CA 92106",Point Loma Heights,E,600.0,1,1.0,2438
+78,"3801 Marquette Pl, San Diego, CA 92106",Point Loma Heights,F,600.0,1,1.0,2472
+79,"3801 Marquette Pl, San Diego, CA 92106",Point Loma Heights,C,925.0,2,1.0,3136
+80,"5041 Santa Monica Ave, San Diego, CA 92107",Ocean Beach,No current availability,,1,1.0,2495
+81,"1587 Oro Vista Rd, San Diego, CA 92154",Nestor,2 BR,918.0,2,2.0,1975
+82,"4305 3rd Ave, San Diego, CA 92103",Hillcrest,The A5,1069.0,1,1.0,3779
+83,"4305 3rd Ave, San Diego, CA 92103",Hillcrest,The A10,1132.0,1,1.0,3909
+84,"4305 3rd Ave, San Diego, CA 92103",Hillcrest,The A11,1271.0,1,1.0,3999
+85,"4305 3rd Ave, San Diego, CA 92103",Hillcrest,The A12,1294.0,1,1.0,4019
+86,"4305 3rd Ave, San Diego, CA 92103",Hillcrest,The A14,1139.0,1,1.5,4169
+87,"4305 3rd Ave, San Diego, CA 92103",Hillcrest,The A16,1305.0,1,1.5,4559
+88,"4305 3rd Ave, San Diego, CA 92103",Hillcrest,The B6,1452.0,2,2.0,4739
+89,"1601 Broadway, San Diego, CA 92101",East Village,S2,563.0,0,1.0,2545
+90,"1601 Broadway, San Diego, CA 92101",East Village,S3,596.0,0,1.0,2595
+91,"1601 Broadway, San Diego, CA 92101",East Village,CASA 223,665.0,0,1.0,2760
+92,"1601 Broadway, San Diego, CA 92101",East Village,RESIDENCE A2,701.0,1,1.0,3253
+93,"1601 Broadway, San Diego, CA 92101",East Village,RESIDENCE D4,1015.0,1,2.0,3610
+94,"1601 Broadway, San Diego, CA 92101",East Village,RESIDENCE C7,1240.0,2,2.0,4244
+95,"1601 Broadway, San Diego, CA 92101",East Village,RESIDENCE C5,1210.0,2,2.0,4319
+96,"5040 Camino San Fermin, San Diego, CA 92130",Carmel Valley,B1 2x2,907.0,2,2.0,3932
+97,"5040 Camino San Fermin, San Diego, CA 92130",Carmel Valley,B5 2x2,1122.0,2,2.0,4192
+98,"5040 Camino San Fermin, San Diego, CA 92130",Carmel Valley,B3 2x2,1176.0,2,2.0,4252
+99,"5040 Camino San Fermin, San Diego, CA 92130",Carmel Valley,C1 3x2,1205.0,3,2.0,3917
+100,"5737 College Ave, San Diego, CA 92120",Del Cerro,1 bedroom,675.0,1,1.0,2000
+101,"1100 Dennery Rd, San Diego, CA 92154",Ocean Crest,A Bartlett 656 SF,656.0,1,1.0,2271
+102,"1100 Dennery Rd, San Diego, CA 92154",Ocean Crest,B Francisco 809 SF,809.0,1,1.0,2594
+103,"1100 Dennery Rd, San Diego, CA 92154",Ocean Crest,40 SF,1040.0,2,2.0,3035
+104,"1100 Dennery Rd, San Diego, CA 92154",Ocean Crest,"D Brandriff 1,098 SF Reno",1098.0,2,2.0,3330
+105,"1100 Dennery Rd, San Diego, CA 92154",Ocean Crest,"C Mannheim 1,040 SF Reno",1040.0,2,2.0,3345
+106,"1100 Dennery Rd, San Diego, CA 92154",Ocean Crest,295 SF,1295.0,3,2.0,3192
+107,"1100 Dennery Rd, San Diego, CA 92154",Ocean Crest,"E Lauritz 1,295 SF Reno",1295.0,3,2.0,3512
+108,"915 W Grape St, San Diego, CA 92101",Harborview,B Floorplan- Unfurnished,529.0,0,1.0,2820
+109,"915 W Grape St, San Diego, CA 92101",Harborview,C2 Floorplan- Furnished/Unfurnished,921.0,1,1.0,3261
+110,"915 W Grape St, San Diego, CA 92101",Harborview,D Floorplan,748.0,1,1.0,3540
+111,"915 W Grape St, San Diego, CA 92101",Harborview,H1 Floorplan,1002.0,1,1.0,3865
+112,"915 W Grape St, San Diego, CA 92101",Harborview,F Floorplan,1407.0,2,2.0,6515
+113,"8800 Lombard Pl, San Diego, CA 92122",University City,S1,607.0,0,1.0,3590
+114,"8800 Lombard Pl, San Diego, CA 92122",University City,S2,607.0,0,1.0,3787
+115,"8800 Lombard Pl, San Diego, CA 92122",University City,1A,762.0,1,1.0,4231
+116,"8800 Lombard Pl, San Diego, CA 92122",University City,1B,819.0,1,1.0,4401
+117,"8800 Lombard Pl, San Diego, CA 92122",University City,2C,1160.0,2,2.0,5413
+118,"8800 Lombard Pl, San Diego, CA 92122",University City,2B,1261.0,2,2.0,5694
+119,"8800 Lombard Pl, San Diego, CA 92122",University City,2A,1067.0,2,2.0,5826
+120,"8800 Lombard Pl, San Diego, CA 92122",University City,2D,1323.0,2,2.0,6631
+121,"8800 Lombard Pl, San Diego, CA 92122",University City,3A,1520.0,3,2.0,8039
+122,"4499 Ohio St, San Diego, CA 92116",North Park,S1,579.0,0,1.0,2860
+123,"4499 Ohio St, San Diego, CA 92116",North Park,A1,693.0,1,1.0,3354
+124,"4499 Ohio St, San Diego, CA 92116",North Park,B1,1070.0,2,2.0,4178
+125,"4499 Ohio St, San Diego, CA 92116",North Park,B2.1,1035.0,2,2.0,4318
+126,"4499 Ohio St, San Diego, CA 92116",North Park,B3,1035.0,2,2.0,4368
+127,"12646 Torrey Bluff Dr, San Diego, CA 92130",Carmel Valley,Plan A1,600.0,1,1.0,2560
+128,"12646 Torrey Bluff Dr, San Diego, CA 92130",Carmel Valley,Plan B1,655.0,1,1.0,2588
+129,"12646 Torrey Bluff Dr, San Diego, CA 92130",Carmel Valley,Plan A2,600.0,1,1.0,2739
+130,"12646 Torrey Bluff Dr, San Diego, CA 92130",Carmel Valley,Plan B2,655.0,1,1.0,2765
+131,"12646 Torrey Bluff Dr, San Diego, CA 92130",Carmel Valley,Plan C1,925.0,2,2.0,3139
+132,"12646 Torrey Bluff Dr, San Diego, CA 92130",Carmel Valley,Plan D1,962.0,2,2.0,3247
+133,"12646 Torrey Bluff Dr, San Diego, CA 92130",Carmel Valley,Plan C2,925.0,2,2.0,3291
+134,"12646 Torrey Bluff Dr, San Diego, CA 92130",Carmel Valley,Plan D2,962.0,2,2.0,3393
+135,"12629 El Camino Real, San Diego, CA 92130",Carmel Valley,Pinnacle,894.0,1,1.0,3256
+136,"12629 El Camino Real, San Diego, CA 92130",Carmel Valley,Newport,1303.0,2,2.0,3615
+137,"12629 El Camino Real, San Diego, CA 92130",Carmel Valley,Belmont,1317.0,2,2.0,3690
+138,"12629 El Camino Real, San Diego, CA 92130",Carmel Valley,Lakeview,1425.0,3,2.0,4201
+139,"655 6th Ave, San Diego, CA 92101",Core-Columbia,A5.1,628.0,0,1.0,2544
+140,"655 6th Ave, San Diego, CA 92101",Core-Columbia,E5.1,570.0,0,1.0,2599
+141,"655 6th Ave, San Diego, CA 92101",Core-Columbia,E7.1,660.0,0,1.0,2629
+142,"655 6th Ave, San Diego, CA 92101",Core-Columbia,E6.1,628.0,0,1.0,2744
+143,"655 6th Ave, San Diego, CA 92101",Core-Columbia,E9.1,726.0,0,1.0,2819
+144,"655 6th Ave, San Diego, CA 92101",Core-Columbia,A3.1,700.0,1,1.0,2797
+145,"655 6th Ave, San Diego, CA 92101",Core-Columbia,C1.2,1446.0,3,2.0,4189
+146,"707 10th Ave, San Diego, CA 92101",East Village,E2.1,412.0,0,1.0,2334
+147,"707 10th Ave, San Diego, CA 92101",East Village,E3.1,428.0,0,1.0,2420
+148,"707 10th Ave, San Diego, CA 92101",East Village,E5.1,520.0,0,1.0,2555
+149,"707 10th Ave, San Diego, CA 92101",East Village,E7.1,551.0,0,1.0,2585
+150,"707 10th Ave, San Diego, CA 92101",East Village,E20.1,647.0,0,1.0,2645
+151,"707 10th Ave, San Diego, CA 92101",East Village,A5.1,628.0,1,1.0,2569
+152,"707 10th Ave, San Diego, CA 92101",East Village,B4.2,939.0,2,2.0,3010
+153,"707 10th Ave, San Diego, CA 92101",East Village,B3.2,904.0,2,2.0,3301
+154,"707 10th Ave, San Diego, CA 92101",East Village,B9.2,1082.0,2,2.0,3333
+155,"707 10th Ave, San Diego, CA 92101",East Village,B8.2,1009.0,2,2.0,3580
+156,"3288 5th Ave, San Diego, CA 92103",Bankers Hill,Sea Lavender,617.0,0,1.0,3094
+157,"3288 5th Ave, San Diego, CA 92103",Bankers Hill,California Bay,741.0,1,1.0,3637
+158,"3288 5th Ave, San Diego, CA 92103",Bankers Hill,624,1019.0,1,1.5,5163
+159,"3288 5th Ave, San Diego, CA 92103",Bankers Hill,611,1289.0,1,2.5,5337
+160,"1302 Frankfort St, San Diego, CA 92110",Bay Park,A2,834.0,1,1.0,3180
+161,"1302 Frankfort St, San Diego, CA 92110",Bay Park,B1,1156.0,2,2.0,3685
+162,"15909 Avenida Venusto, San Diego, CA 92128",Rancho Bernardo,Seville,543.0,1,1.0,2243
+163,"15909 Avenida Venusto, San Diego, CA 92128",Rancho Bernardo,Cordoba,727.0,1,1.0,2633
+164,"15909 Avenida Venusto, San Diego, CA 92128",Rancho Bernardo,Barcelona,840.0,2,1.0,2787
+165,"15909 Avenida Venusto, San Diego, CA 92128",Rancho Bernardo,Mallorca,905.0,2,1.0,2822
+166,"15909 Avenida Venusto, San Diego, CA 92128",Rancho Bernardo,Valencia,950.0,2,2.0,3324
+167,"1399 9th Ave, San Diego, CA 92101",Core-Columbia,S1,570.0,0,1.0,2046
+168,"1399 9th Ave, San Diego, CA 92101",Core-Columbia,A1,750.0,1,1.0,2426
+169,"1399 9th Ave, San Diego, CA 92101",Core-Columbia,B1,1025.0,2,2.0,3619
+170,"677 7th Ave, San Diego, CA 92101",Core-Columbia,E1.1,594.0,0,1.0,2288
+171,"677 7th Ave, San Diego, CA 92101",Core-Columbia,E3.1,614.0,0,1.0,2383
+172,"677 7th Ave, San Diego, CA 92101",Core-Columbia,A5.1,783.0,0,1.0,2706
+173,"677 7th Ave, San Diego, CA 92101",Core-Columbia,A9.1,618.0,1,1.0,2376
+174,"677 7th Ave, San Diego, CA 92101",Core-Columbia,B1.2,957.0,2,2.0,3211
+175,"677 7th Ave, San Diego, CA 92101",Core-Columbia,B2.2,999.0,2,2.0,3284
+176,"4464 Castelar St, San Diego, CA 92107",Point Loma Heights,One bedroom / One bath with vaulted ceilings,790.0,1,1.0,2595
+177,"4464 Castelar St, San Diego, CA 92107",Point Loma Heights,Two bedroom / Two baths,1015.0,2,2.0,3195
+178,"453 13th St, San Diego, CA 92101",East Village,Lite Renovation - 456 Sq Ft.,456.0,0,1.0,2443
+179,"453 13th St, San Diego, CA 92101",East Village,413,413.0,0,1.0,2468
+180,"453 13th St, San Diego, CA 92101",East Village,Renovated - 413 - Sq. Ft.,413.0,0,1.0,2553
+181,"453 13th St, San Diego, CA 92101",East Village,Renovated 439 Sq Ft.,439.0,0,1.0,2578
+182,"453 13th St, San Diego, CA 92101",East Village,Renovated-424 Sq Ft.,424.0,0,1.0,2583
+183,"453 13th St, San Diego, CA 92101",East Village,Renovated - 471 Sq Ft.,471.0,0,1.0,2693
+184,"453 13th St, San Diego, CA 92101",East Village,Lite Renovation - 689 Sq Ft.,689.0,0,0.0,3100
+185,"453 13th St, San Diego, CA 92101",East Village,Renovated - 689 Sq Ft.,689.0,1,1.0,2995
+186,"453 13th St, San Diego, CA 92101",East Village,Renovated - 882 Sq Ft.,882.0,2,1.5,3940
+187,"453 13th St, San Diego, CA 92101",East Village,Lite Renovation - 456 Sq Ft.,456.0,0,1.0,2443
+188,"453 13th St, San Diego, CA 92101",East Village,413,413.0,0,1.0,2468
+189,"453 13th St, San Diego, CA 92101",East Village,Renovated - 413 - Sq. Ft.,413.0,0,1.0,2553
+190,"453 13th St, San Diego, CA 92101",East Village,Renovated 439 Sq Ft.,439.0,0,1.0,2578
+191,"453 13th St, San Diego, CA 92101",East Village,Renovated-424 Sq Ft.,424.0,0,1.0,2583
+192,"453 13th St, San Diego, CA 92101",East Village,Renovated - 471 Sq Ft.,471.0,0,1.0,2693
+193,"453 13th St, San Diego, CA 92101",East Village,Lite Renovation - 689 Sq Ft.,689.0,0,0.0,3100
+194,"453 13th St, San Diego, CA 92101",East Village,Renovated - 689 Sq Ft.,689.0,1,1.0,2995
+195,"453 13th St, San Diego, CA 92101",East Village,Renovated - 882 Sq Ft.,882.0,2,1.5,3940
+196,"2040 Columbia St, San Diego, CA 92101",Little Italy,A8,682.0,1,1.0,2720
+197,"2040 Columbia St, San Diego, CA 92101",Little Italy,B3,782.0,2,2.0,3015
+198,"2930 Barnard St, San Diego, CA 92110",Point Loma Heights,A1,828.0,1,1.0,3484
+199,"2930 Barnard St, San Diego, CA 92110",Point Loma Heights,B1,1223.0,2,2.0,4069
+200,"1450 Market St, San Diego, CA 92101",East Village,A1,517.0,0,1.0,2179
+201,"1450 Market St, San Diego, CA 92101",East Village,A2,596.0,0,1.0,2238
+202,"1450 Market St, San Diego, CA 92101",East Village,B3,796.0,1,1.0,2509
+203,"13138 Kellam Ct, San Diego, CA 92130",Carmel Valley,1 Bedroom A,700.0,1,1.0,2714
+204,"13138 Kellam Ct, San Diego, CA 92130",Carmel Valley,2 Bedrooms A,1050.0,2,2.0,3384
+205,"2242 Gill Village Way, San Diego, CA 92108",Mission Valley East,B 730 SF San Miguel,730.0,1,1.0,2608
+206,"2242 Gill Village Way, San Diego, CA 92108",Mission Valley East,A 706 SF San Diego,706.0,1,1.0,2643
+207,"2242 Gill Village Way, San Diego, CA 92108",Mission Valley East,A 706 SF San Diego RENOVATED,706.0,1,1.0,2793
+208,"2242 Gill Village Way, San Diego, CA 92108",Mission Valley East,"D 1,249 SF San Luis",1249.0,2,2.0,3415
+209,"2242 Gill Village Way, San Diego, CA 92108",Mission Valley East,"C 1,082 SF San Gabriel RENOVATED",1082.0,2,2.0,3479
+210,"2242 Gill Village Way, San Diego, CA 92108",Mission Valley East,"D 1,249 SF San Luis RENOVATED",1249.0,2,2.0,3665
+211,"840 17th St, San Diego, CA 92101",East Village,Plan C,573.0,1,1.0,2171
+212,"840 17th St, San Diego, CA 92101",East Village,Plan E,693.0,1,1.0,2286
+213,"840 17th St, San Diego, CA 92101",East Village,Plan A,847.0,2,2.0,3006
+214,"311 4th Ave, San Diego, CA 92101",Gaslamp Quarter,201,1051.0,1,1.0,2695
+215,"311 4th Ave, San Diego, CA 92101",Gaslamp Quarter,614,1046.0,1,1.0,2950
+216,"311 4th Ave, San Diego, CA 92101",Gaslamp Quarter,"1 br / 1.0 ba, $3250",,1,1.0,3250
+217,"15640 Bernardo Center Dr, San Diego, CA 92127",Rancho Penasquitos,Avalon,900.0,2,1.0,2848
+218,"15640 Bernardo Center Dr, San Diego, CA 92127",Rancho Penasquitos,Brentwood,1038.0,2,2.0,2926
+219,"15640 Bernardo Center Dr, San Diego, CA 92127",Rancho Penasquitos,Brentwood 2nd Floor,1038.0,2,2.0,2947
+220,"15640 Bernardo Center Dr, San Diego, CA 92127",Rancho Penasquitos,Coronado Alt,1158.0,3,2.0,3295
+221,"15640 Bernardo Center Dr, San Diego, CA 92127",Rancho Penasquitos,Del Mar,1195.0,3,2.0,3503
+0,"6540 Friars Rd, San Diego, CA 92108",Linda Vista,Studio (A),400.0,0,1.0,2094
+1,"6540 Friars Rd, San Diego, CA 92108",Linda Vista,1 Bed 1 Bath (B1),630.0,1,1.0,2549
+2,"6540 Friars Rd, San Diego, CA 92108",Linda Vista,1 Bed 1 Bath (B),635.0,1,1.0,2594
+3,"635 Robinson Ave, San Diego, CA 92103",Hillcrest,S-A.3,606.0,0,1.0,2700
+4,"635 Robinson Ave, San Diego, CA 92103",Hillcrest,S-A.2,559.0,0,1.0,2750
+5,"635 Robinson Ave, San Diego, CA 92103",Hillcrest,S-A.4,601.0,0,1.0,2980
+6,"635 Robinson Ave, San Diego, CA 92103",Hillcrest,2-H,1213.0,2,2.0,5285
+7,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A1a -1x1,705.0,1,1.0,2425
+8,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A2 -1x1,764.0,1,1.0,2500
+9,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A1b -1x1,774.0,1,1.0,2555
+10,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A3b -1x1,750.0,1,1.0,2600
+11,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A3a -1x1,748.0,1,1.0,2615
+12,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B3a -2x2,951.0,2,2.0,3275
+13,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B3b -2x2,949.0,2,2.0,3290
+14,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B5 -2x2,1005.0,2,2.0,3315
+15,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B2 -2x2,997.0,2,2.0,3315
+16,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B1 -2x2,1033.0,2,2.0,3325
+17,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B6 -2x2,1014.0,2,2.0,3385
+18,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,C1 -3x2,1228.0,3,2.0,3915
+19,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A1a -1x1,705.0,1,1.0,2425
+20,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A2 -1x1,764.0,1,1.0,2500
+21,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A1b -1x1,774.0,1,1.0,2555
+22,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A3b -1x1,750.0,1,1.0,2600
+23,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A3a -1x1,748.0,1,1.0,2615
+24,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B3a -2x2,951.0,2,2.0,3275
+25,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B3b -2x2,949.0,2,2.0,3290
+26,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B5 -2x2,1005.0,2,2.0,3315
+27,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B2 -2x2,997.0,2,2.0,3315
+28,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B1 -2x2,1033.0,2,2.0,3325
+29,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B6 -2x2,1014.0,2,2.0,3385
+30,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,C1 -3x2,1228.0,3,2.0,3915
+31,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A1a -1x1,705.0,1,1.0,2425
+32,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A2 -1x1,764.0,1,1.0,2500
+33,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A1b -1x1,774.0,1,1.0,2555
+34,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A3b -1x1,750.0,1,1.0,2600
+35,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A3a -1x1,748.0,1,1.0,2615
+36,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B3a -2x2,951.0,2,2.0,3275
+37,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B3b -2x2,949.0,2,2.0,3290
+38,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B5 -2x2,1005.0,2,2.0,3315
+39,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B2 -2x2,997.0,2,2.0,3315
+40,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B1 -2x2,1033.0,2,2.0,3325
+41,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B6 -2x2,1014.0,2,2.0,3385
+42,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,C1 -3x2,1228.0,3,2.0,3915
+43,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A1a -1x1,705.0,1,1.0,2425
+44,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A2 -1x1,764.0,1,1.0,2500
+45,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A1b -1x1,774.0,1,1.0,2555
+46,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A3b -1x1,750.0,1,1.0,2600
+47,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A3a -1x1,748.0,1,1.0,2615
+48,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B3a -2x2,951.0,2,2.0,3275
+49,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B3b -2x2,949.0,2,2.0,3290
+50,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B5 -2x2,1005.0,2,2.0,3315
+51,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B2 -2x2,997.0,2,2.0,3315
+52,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B1 -2x2,1033.0,2,2.0,3325
+53,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B6 -2x2,1014.0,2,2.0,3385
+54,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,C1 -3x2,1228.0,3,2.0,3915
+55,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A1a -1x1,705.0,1,1.0,2425
+56,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A2 -1x1,764.0,1,1.0,2500
+57,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A1b -1x1,774.0,1,1.0,2555
+58,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A3b -1x1,750.0,1,1.0,2600
+59,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A3a -1x1,748.0,1,1.0,2615
+60,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B3a -2x2,951.0,2,2.0,3275
+61,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B3b -2x2,949.0,2,2.0,3290
+62,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B5 -2x2,1005.0,2,2.0,3315
+63,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B2 -2x2,997.0,2,2.0,3315
+64,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B1 -2x2,1033.0,2,2.0,3325
+65,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B6 -2x2,1014.0,2,2.0,3385
+66,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,C1 -3x2,1228.0,3,2.0,3915
+67,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A1a -1x1,705.0,1,1.0,2425
+68,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A2 -1x1,764.0,1,1.0,2500
+69,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A1b -1x1,774.0,1,1.0,2555
+70,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A3b -1x1,750.0,1,1.0,2600
+71,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A3a -1x1,748.0,1,1.0,2615
+72,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B3a -2x2,951.0,2,2.0,3275
+73,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B3b -2x2,949.0,2,2.0,3290
+74,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B5 -2x2,1005.0,2,2.0,3315
+75,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B2 -2x2,997.0,2,2.0,3315
+76,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B1 -2x2,1033.0,2,2.0,3325
+77,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B6 -2x2,1014.0,2,2.0,3385
+78,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,C1 -3x2,1228.0,3,2.0,3915
+79,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A1a -1x1,705.0,1,1.0,2425
+80,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A2 -1x1,764.0,1,1.0,2500
+81,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A1b -1x1,774.0,1,1.0,2555
+82,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A3b -1x1,750.0,1,1.0,2600
+83,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,A3a -1x1,748.0,1,1.0,2615
+84,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B3a -2x2,951.0,2,2.0,3275
+85,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B3b -2x2,949.0,2,2.0,3290
+86,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B5 -2x2,1005.0,2,2.0,3315
+87,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B2 -2x2,997.0,2,2.0,3315
+88,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B1 -2x2,1033.0,2,2.0,3325
+89,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,B6 -2x2,1014.0,2,2.0,3385
+90,"7231 Colchester Ct, San Diego, CA 92154",Otay Mesa,C1 -3x2,1228.0,3,2.0,3915
+91,"3200 Paseo Village Way, San Diego, CA 92130",Carmel Valley,Studio S1,590.0,0,1.0,3125
+92,"3200 Paseo Village Way, San Diego, CA 92130",Carmel Valley,1 X 1 A2,743.0,1,1.0,4014
+93,"3200 Paseo Village Way, San Diego, CA 92130",Carmel Valley,1 X 1 A3,793.0,1,1.0,4139
+94,"3200 Paseo Village Way, San Diego, CA 92130",Carmel Valley,2 x 2 B1,998.0,2,2.0,4303
+95,"3200 Paseo Village Way, San Diego, CA 92130",Carmel Valley,2 x 2 B2.1,1058.0,2,2.0,4368
+96,"3200 Paseo Village Way, San Diego, CA 92130",Carmel Valley,2 x 2 B2,1061.0,2,2.0,4428
+97,"3200 Paseo Village Way, San Diego, CA 92130",Carmel Valley,2 x 2 B3.1,1190.0,2,2.0,5785
+98,"3200 Paseo Village Way, San Diego, CA 92130",Carmel Valley,2 x 2 B3,1210.0,2,2.0,5865
+99,"3200 Paseo Village Way, San Diego, CA 92130",Carmel Valley,Townhome 1c,1485.0,2,2.0,8043
+100,"3200 Paseo Village Way, San Diego, CA 92130",Carmel Valley,Townhome 1,1485.0,2,2.0,8068
+101,"3200 Paseo Village Way, San Diego, CA 92130",Carmel Valley,Townhome 1b,1720.0,2,2.0,8303
+102,"3200 Paseo Village Way, San Diego, CA 92130",Carmel Valley,3 x 2 C1,1433.0,3,2.0,6805
+103,"3950 Mahaila Ave, San Diego, CA 92122",University City,Residence A,515.0,1,1.0,2470
+104,"3950 Mahaila Ave, San Diego, CA 92122",University City,Residence C,669.0,1,1.0,2610
+105,"3950 Mahaila Ave, San Diego, CA 92122",University City,Residence D,695.0,1,1.0,2640
+106,"3950 Mahaila Ave, San Diego, CA 92122",University City,Residence DL,811.0,1,1.0,2985
+107,"3950 Mahaila Ave, San Diego, CA 92122",University City,Residence CL,782.0,1,1.0,2985
+108,"3950 Mahaila Ave, San Diego, CA 92122",University City,Residence F,929.0,2,2.0,3100
+109,"3950 Mahaila Ave, San Diego, CA 92122",University City,Residence E,929.0,2,2.0,3140
+110,"3950 Mahaila Ave, San Diego, CA 92122",University City,Residence G,1027.0,2,2.5,3375
+111,"3950 Mahaila Ave, San Diego, CA 92122",University City,Residence FL,1062.0,2,2.0,3725
+112,"13006 Signature Point, San Diego, CA 92130",Carmel Valley,AR,998.0,2,2.0,4571
+113,"13006 Signature Point, San Diego, CA 92130",Carmel Valley,B2R,1151.0,2,2.0,4606
+114,"13006 Signature Point, San Diego, CA 92130",Carmel Valley,B3R,1214.0,2,2.0,4621
+115,"13006 Signature Point, San Diego, CA 92130",Carmel Valley,C3R,1353.0,3,2.0,5061
+116,"13006 Signature Point, San Diego, CA 92130",Carmel Valley,C1R,1279.0,3,2.0,5100
+117,"13006 Signature Point, San Diego, CA 92130",Carmel Valley,C2R,1353.0,3,2.0,5198
+118,"1551 Union St, San Diego, CA 92101",Little Italy,A1J,874.0,1,1.0,3328
+119,"1551 Union St, San Diego, CA 92101",Little Italy,A1Lc,974.0,1,1.0,3368
+120,"1551 Union St, San Diego, CA 92101",Little Italy,A1La,972.0,1,1.0,3703
+121,"1551 Union St, San Diego, CA 92101",Little Italy,A1Qb,1270.0,1,1.0,3862
+122,"1551 Union St, San Diego, CA 92101",Little Italy,A1Lb,972.0,1,1.0,3903
+123,"1551 Union St, San Diego, CA 92101",Little Italy,B2A,1260.0,2,2.0,4473
+124,"1551 Union St, San Diego, CA 92101",Little Italy,B2D,1346.0,2,2.0,5307
+125,"8683 Via Mallorca, La Jolla, CA 92037",La Jolla,Junior One Bedroom Renovated,520.0,1,1.0,2440
+126,"8683 Via Mallorca, La Jolla, CA 92037",La Jolla,One Bedroom Renovated,620.0,1,1.0,2710
+127,"445 W University Ave, San Diego, CA 92103",Hillcrest,2x2R,800.0,2,2.0,3095
+128,"1202 Kettner Blvd, San Diego, CA 92101",Core-Columbia,1202 Kettner Boulevard,,1,1.0,3250
+129,"9515 Genesee Ave, San Diego, CA 92121",University City,Pinnacle,600.0,1,1.0,2290
+130,"9515 Genesee Ave, San Diego, CA 92121",University City,Catalina,800.0,2,1.0,2910
+131,"5050 Niagara Ave, San Diego, CA 92107",Ocean Beach,Studio,357.0,0,1.0,2095
+132,"5050 Niagara Ave, San Diego, CA 92107",Ocean Beach,1x2P,714.0,1,2.0,2550
+133,"4070 Huerfano Ave, San Diego, CA 92117",Bay Ho,Soledad,475.0,0,1.0,1880
+134,"4070 Huerfano Ave, San Diego, CA 92117",Bay Ho,Pinnacle,650.0,1,1.0,2235
+135,"400 Prospect St, La Jolla, CA 92037",La Jolla,Coast,748.0,1,1.0,6294
+136,"400 Prospect St, La Jolla, CA 92037",La Jolla,Sunset,1087.0,2,2.0,6799
+137,"400 Prospect St, La Jolla, CA 92037",La Jolla,Catalina,1223.0,2,2.0,6899
+138,"222 J St, San Diego, CA 92101",Marina,132,285.0,0,1.0,1500
+139,"222 J St, San Diego, CA 92101",Marina,253,285.0,0,1.0,1500
+140,"222 J St, San Diego, CA 92101",Marina,344,285.0,0,1.0,1500
+141,"222 J St, San Diego, CA 92101",Marina,127,285.0,0,1.0,1500
+142,"222 J St, San Diego, CA 92101",Marina,450,285.0,0,1.0,1550
+143,"222 J St, San Diego, CA 92101",Marina,430,285.0,0,1.0,1550
+144,"222 J St, San Diego, CA 92101",Marina,353,285.0,0,1.0,1550
+145,"222 J St, San Diego, CA 92101",Marina,247,285.0,0,1.0,1550
+146,"222 J St, San Diego, CA 92101",Marina,248,285.0,0,1.0,1550
+147,"222 J St, San Diego, CA 92101",Marina,448,285.0,0,1.0,1550
+148,"222 J St, San Diego, CA 92101",Marina,111,315.0,0,1.0,1600
+149,"222 J St, San Diego, CA 92101",Marina,432,285.0,0,1.0,1600
+150,"222 J St, San Diego, CA 92101",Marina,261,315.0,0,1.0,1650
+151,"222 J St, San Diego, CA 92101",Marina,258,315.0,0,1.0,1650
+152,"222 J St, San Diego, CA 92101",Marina,325,315.0,0,1.0,1650
+153,"222 J St, San Diego, CA 92101",Marina,213,315.0,0,1.0,1700
+154,"222 J St, San Diego, CA 92101",Marina,425,315.0,0,1.0,1700
+155,"1670 Kettner Blvd, San Diego, CA 92101",Harborview,A1,585.0,1,1.0,2748
+156,"1670 Kettner Blvd, San Diego, CA 92101",Harborview,A2,725.0,1,1.0,2804
+157,"1670 Kettner Blvd, San Diego, CA 92101",Harborview,A2L,841.0,1,1.0,3315
+158,"1670 Kettner Blvd, San Diego, CA 92101",Harborview,B2,1080.0,2,2.0,3661
+159,"5025 Collwood Way, San Diego, CA 92115",Talmadge,Studio,398.0,0,1.0,1905
+160,"5025 Collwood Way, San Diego, CA 92115",Talmadge,1 Room in a 4 bedroom,350.0,1,1.0,750
+161,"5025 Collwood Way, San Diego, CA 92115",Talmadge,1 Room in a 2 Bedroom,502.0,1,1.0,915
+162,"11921 Carmel Creek Rd, San Diego, CA 92130",Carmel Valley,A3 1x1,817.0,1,1.0,3229
+163,"11921 Carmel Creek Rd, San Diego, CA 92130",Carmel Valley,B1 2x1,951.0,2,1.0,3537
+164,"11921 Carmel Creek Rd, San Diego, CA 92130",Carmel Valley,B5 2x2,1135.0,2,2.0,3730
+165,"11921 Carmel Creek Rd, San Diego, CA 92130",Carmel Valley,B4 2x2,1163.0,2,2.0,3797
+166,"11921 Carmel Creek Rd, San Diego, CA 92130",Carmel Valley,TH2C 3x3.5,1784.0,3,2.5,5431
+167,"11921 Carmel Creek Rd, San Diego, CA 92130",Carmel Valley,TH1C 3x3.5,2366.0,3,3.5,5911
+168,"326 Juniper St, San Diego, CA 92101",Bankers Hill,Avila,272.0,0,1.0,1700
+169,"326 Juniper St, San Diego, CA 92101",Bankers Hill,Asturias,360.0,0,1.0,2050
+170,"326 Juniper St, San Diego, CA 92101",Bankers Hill,Pamplona,462.0,0,1.0,2350
+171,"326 Juniper St, San Diego, CA 92101",Bankers Hill,Valencia,411.0,1,1.0,2400
+172,"10201 Camino Ruiz, San Diego, CA 92126",Mira Mesa,Barcelona,588.0,1,1.0,2364
+173,"10201 Camino Ruiz, San Diego, CA 92126",Mira Mesa,Valencia,907.0,2,2.0,2959
+174,"4166 4th Ave, San Diego, CA 92103",Hillcrest,One Bedroom - Available March 1st,500.0,1,1.0,2098
+175,"525 Olive St, San Diego, CA 92103",Bankers Hill,C4,1169.0,2,2.0,6831
+176,"525 Olive St, San Diego, CA 92103",Bankers Hill,C6,1317.0,2,2.0,6954
+177,"525 Olive St, San Diego, CA 92103",Bankers Hill,C2,1359.0,2,2.0,8050
+178,"525 Olive St, San Diego, CA 92103",Bankers Hill,C8,1138.0,2,2.0,8537
+179,"525 Olive St, San Diego, CA 92103",Bankers Hill,C1,1280.0,2,2.0,9421
+180,"525 Olive St, San Diego, CA 92103",Bankers Hill,C7,1507.0,2,2.0,9675
+181,"525 Olive St, San Diego, CA 92103",Bankers Hill,D1,1625.0,3,2.0,13025
+182,"7623 Eads Ave, La Jolla, CA 92037",La Jolla,One Bedroom,500.0,1,1.0,2300
+183,"202 Island Ave, San Diego, CA 92101",Marina,225,285.0,0,1.0,1500
+184,"202 Island Ave, San Diego, CA 92101",Marina,487,285.0,0,1.0,1550
+185,"202 Island Ave, San Diego, CA 92101",Marina,425,285.0,0,1.0,1550
+186,"202 Island Ave, San Diego, CA 92101",Marina,230,315.0,0,1.0,1650
+187,"202 Island Ave, San Diego, CA 92101",Marina,282,315.0,0,1.0,1750
+188,"1830 Upas St, San Diego, CA 92103",Balboa Park,38,450.0,1,1.0,1925
+189,"5060 La Jolla Blvd, San Diego, CA 92109",Pacific Beach,Two Bedroom,1065.0,2,2.0,4525
+190,"148 W Maple St, San Diego, CA 92103",Bankers Hill,Upper Bay View Studio,,0,1.0,1850
+191,"2810 Keats St, San Diego, CA 92106",Roseville - Fleet Ridge,2 Bedroom,650.0,2,1.0,2500
+192,"9890 Graduate Driveway, San Diego, CA 92131",Scripps Ranch,B1,1160.0,2,2.0,3023
+193,"9890 Graduate Driveway, San Diego, CA 92131",Scripps Ranch,C1,1366.0,3,2.0,3599
+194,"1941 Columbia St, San Diego, CA 92101",Little Italy,One Bedroom,375.0,1,1.0,2000
+195,"428 C St, San Diego, CA 92101",Core-Columbia,408,820.0,1,1.0,2095
+196,"428 C St, San Diego, CA 92101",Core-Columbia,428 C Street,,1,1.0,2500
+197,"11012 Camino Playa Carmel, San Diego, CA 92124",Tierrasanta,Windward,631.0,1,1.0,2499
+198,"11012 Camino Playa Carmel, San Diego, CA 92124",Tierrasanta,Cardenas,783.0,1,1.0,2559
+199,"11012 Camino Playa Carmel, San Diego, CA 92124",Tierrasanta,Serrana,1018.0,2,2.0,2889
+200,"11012 Camino Playa Carmel, San Diego, CA 92124",Tierrasanta,Veranda,907.0,2,1.0,2930
+201,"11012 Camino Playa Carmel, San Diego, CA 92124",Tierrasanta,Marcay,1057.0,2,2.0,2938
+202,"720 4th Ave, San Diego, CA 92101",Horton Plaza,,100.0,1,0.0,590
+203,"906 10th Ave, San Diego, CA 92103",Core-Columbia,202,760.0,1,1.0,1850
+204,"906 10th Ave, San Diego, CA 92103",Core-Columbia,,,1,1.0,3000
+0,"529 Market St, San Diego, CA 92101",Gaslamp Quarter,2B,775.0,1,1.0,1995
+1,"529 Market St, San Diego, CA 92101",Gaslamp Quarter,529 Market St,,1,1.0,3000
+2,"3933 National Ave, San Diego, CA 92113",Southcrest,1016,629.0,2,1.0,1895
+3,"2218 Chatsworth Blvd, San Diego, CA 92106",Point Loma Heights,2220 Chatsworth Blvd,800.0,2,1.0,2100
+4,"2711-21 Lincoln Ave, San Diego, CA 92104",North Park,2715,450.0,1,1.0,1750
+5,"3172 Adams Ave, San Diego, CA 92116",Normal Heights,F,,1,1.0,2195
+6,"4960 Santa Monica Ave, San Diego, CA 92107",Ocean Beach,5,,0,1.0,1895
+7,"4380 Texas St, San Diego, CA 92104",University Heights,14,600.0,1,1.0,2295
+8,"4169 38th St, San Diego, CA 92105",Corridor,8,650.0,1,1.0,1995
+9,"875 G St, San Diego, CA 92101",Core-Columbia,,934.0,2,2.0,2995
+10,"729 Island Ct, San Diego, CA 92109",Mission Beach,741,552.0,2,1.0,3495
+11,"3051-3053 C St, San Diego, CA 92102",Golden Hill,4,625.0,1,1.0,1995
+0,"3916 Rene Dr, San Diego, CA 92154",Otay Mesa West,3916,,4,2.0,3795
+1,"2148-54 Albatross St, San Diego, CA 92101",Bankers Hill,2148,625.0,1,1.0,2195
+2,"303-321 W Olive St, San Diego, CA 92103",Midtown,315,,1,1.0,2095
+3,"4178 Swift Ave, San Diego, CA 92104",Corridor,G,640.0,2,1.0,2295
+4,"4609 34th St, San Diego, CA 92116",Normal Heights,4,,2,2.0,1995
+5,"4621 North Ave, San Diego, CA 92116",University Heights,4,,1,1.0,1995
+6,"4580 33rd St, San Diego, CA 92116",Normal Heights,6,700.0,2,1.0,2295
+7,"4567 Texas St, San Diego, CA 92116",North Park,8,420.0,0,1.0,1995
+8,"2852-2866 A St, San Diego, CA 92102",Golden Hill,"1 br / 1.0 ba, $2695",625.0,1,1.0,2695
+9,"2852-2866 A St, San Diego, CA 92102",Golden Hill,2860,,2,1.0,3195
+10,"4414 37th St, San Diego, CA 92116",Normal Heights,#7,526.0,1,1.0,1895
+11,"4281a 48th St, San Diego, CA 92115",Colina del Sol,4277-83 48th Street - 4281-A,650.0,1,1.0,1595
+0,"4354 38th St, San Diego, CA 92105",Normal Heights,5,550.0,1,1.0,2075
+1,"4136 Iowa St, San Diego, CA 92104",North Park,4136-1,950.0,2,2.0,2500
+2,"4571 Marlborough Dr, San Diego, CA 92116",Kensington,7,,2,2.0,2995
+3,"3550 Park Blvd, San Diego, CA 92103",Hillcrest,9,638.0,1,1.0,2595
+4,"4433 Montalvo St, San Diego, CA 92107",Point Loma Heights,7,425.0,0,1.0,2000
+5,"4179 33rd St, San Diego, CA 92104",Corridor,,850.0,2,1.0,2850
+0,"2421 E St, San Diego, CA 92102",Golden Hill,D,515.0,1,1.0,1995
+1,"1929 Columbia St, San Diego, CA 92101",Little Italy,3021,562.0,1,1.0,2450
+2,"4750-4772 Thorn St, San Diego, CA 92105",Oak Park,4762,256.0,0,1.0,1399
+3,"4074 Swift Ave, San Diego, CA 92104",Corridor,#14,1000.0,2,2.0,2250
+0,"6646 Kelly St, San Diego, CA 92111",Linda Vista,3,1000.0,2,2.0,2675
+1,"392 Sycamore Rd, San Diego, CA 92173",San Ysidro,3,1745.0,4,3.0,3495
+2,"3733 Adams Ave, San Diego, CA 92116",Normal Heights,9,600.0,1,1.0,1795
+3,"4546 Illinois St, San Diego, CA 92116",North Park,#7,,1,1.0,2050
+4,"1215-1229 1/2 26th St, San Diego, CA 92102",Golden Hill,1221,572.0,1,1.0,2250
+5,"1215-1229 1/2 26th St, San Diego, CA 92102",Golden Hill,1215 1/2,572.0,1,1.0,2400
+0,"4182-94 Mississippi St, San Diego, CA 92104",University Heights,4184,,2,1.5,2695
+1,"1455 Missouri St, San Diego, CA 92109",Pacific Beach,6,1360.0,3,3.0,5495
+2,"4561 Hawley Blvd, San Diego, CA 92116",Normal Heights,2,725.0,1,1.0,2300
+3,"1215 S 31st St, San Diego, CA 92113",Barrio Logan,,,1,1.0,1695
+4,"4521 Park Blvd, San Diego, CA 92116",University Heights,Cottage 4527,513.0,1,1.0,2495
+5,"2631 A St, San Diego, CA 92102",Golden Hill,3,620.0,1,1.0,1995
+6,"4275 Kendall St, San Diego, CA 92109",Pacific Beach,K,380.0,0,1.0,1850
+0,"2073-79 Emerald St, San Diego, CA 92109",Pacific Beach,2077,,1,1.0,2095
+1,"2073-79 Emerald St, San Diego, CA 92109",Pacific Beach,2073,750.0,2,1.0,2595
+2,"4426 Maple St, San Diego, CA 92105",Swan Canyon,4426,,1,1.0,2195
+3,"1068 Hornblend St, San Diego, CA 92109",Pacific Beach,C,850.0,2,1.0,3200
+4,"4527 35th St, San Diego, CA 92116",Normal Heights,A,850.0,2,2.0,2850
+5,"715 15th St, San Diego, CA 92101",East Village,204,576.0,1,1.0,2195
+6,"715 15th St, San Diego, CA 92101",East Village,203,748.0,1,1.0,2450
+7,"715 15th St, San Diego, CA 92101",East Village,206,680.0,1,1.0,2600
+8,"4134 3rd Ave, San Diego, CA 92103",Hillcrest,1,,2,2.0,2795
+9,"6361 Rancho Mission Rd, San Diego, CA 92108",Grantville,,1200.0,2,1.5,2995
+0,"2632 Worden St, San Diego, CA 92110",Point Loma Heights,,1000.0,2,1.0,2775
+1,"512-520 32nd St, San Diego, CA 92102",Stockton,512,,1,1.0,1895
+2,"4021 Mississippi St, San Diego, CA 92104",University Heights,2,650.0,1,1.0,2000
+3,"2065-69 San Diego Ave, San Diego, CA 92110",Mission Hills,2065,,1,1.0,1725
+4,"5021-29 Logan Ave, San Diego, CA 92113",Mountain View,4,940.0,3,2.0,2650
+5,"1170 Oliver Ave, San Diego, CA 92109",Pacific Beach,4,800.0,2,1.0,2850
+6,"4410-16 Illinois St, San Diego, CA 92116",North Park,4410 llinois St,600.0,1,1.0,1950
+0,"1550 Hornblend St, San Diego, CA 92109",Pacific Beach,1,,1,1.0,2295
+1,"4021 8th Ave, San Diego, CA 92103",Hillcrest,207,672.0,1,1.0,2475
+2,"4122 Marlborough Ave, San Diego, CA 92105",Teralta West,9,,1,1.0,1695
+3,"1338-44 Grand Ave, San Diego, CA 92109",Pacific Beach,1344,,1,1.0,2395
+4,"2605 Madison Ave, San Diego, CA 92116",North Park,#4,950.0,2,2.0,2650
+5,"4580 N 39th St, San Diego, CA 92116",Normal Heights,4580,850.0,2,1.0,2275
+0,"4845 63rd St, San Diego, CA 92115",College East,4843 63rd St,800.0,3,1.0,3300
+1,"3625-3639 Grape St, San Diego, CA 92104",North Park,3632,450.0,1,1.0,2145
+2,"10639 Dabney Dr, San Diego, CA 92126",Mira Mesa,,920.0,2,2.0,2795
+3,"2203-2209 B St, San Diego, CA 92102",Golden Hill,2207,,1,1.0,2100
+4,"1918 & 1930 Emerald St, San Diego, CA 92109",Pacific Beach,209,,1,1.0,2395
+5,"1918 & 1930 Emerald St, San Diego, CA 92109",Pacific Beach,212,,2,1.0,3095
+6,"311-311 1/2 Sycamore Rd, San Diego, CA 92173",San Ysidro,311,,4,2.0,3995
+7,"3935 4th Ave, San Diego, CA 92103",Hillcrest,3941.5,625.0,1,1.0,1950
+0,"7417 Herschel Ave, La Jolla, CA 92037",La Jolla,9,,0,1.0,2295
+1,"4033 Florida St, San Diego, CA 92104",University Heights,3,600.0,1,1.0,2300
+2,"4542-48 37th St, San Diego, CA 92116",Normal Heights,4548,750.0,2,1.0,2150
+3,"330-334 N 22nd St, San Diego, CA 92102",Sherman Heights,330,600.0,1,1.0,2100
+4,"3525 32nd St, San Diego, CA 92104",North Park,3531,580.0,1,1.0,1850
+5,"2230 Albatross St, San Diego, CA 92101",Bankers Hill,15,425.0,0,1.0,1925
+6,"2230 Albatross St, San Diego, CA 92101",Bankers Hill,5,425.0,0,1.0,1925
+7,"3941 1/2 4th Ave, San Diego, CA 92103",Hillcrest,,625.0,1,1.0,1950
+8,"5090 College Ave, San Diego, CA 92115",College West,15,,1,1.0,1695
+9,"4777 35th St, San Diego, CA 92116",Normal Heights,4781 35th St.,750.0,2,1.0,4000
+10,"4777 35th St, San Diego, CA 92116",Normal Heights,4779 35th St.,910.0,2,1.0,4250
+11,"1443-1445 Hornblend St, San Diego, CA 92109",Pacific Beach,A,1088.0,2,1.5,3800
+0,"4366 Menlo Ave, San Diego, CA 92115",Talmadge,27,,1,1.0,1795
+1,"3652 Columbia St, San Diego, CA 92103",Midtown,A,,2,2.0,2895
+2,"4020-34 35th St, San Diego, CA 92104",Corridor,4028,348.0,1,1.0,1750
+3,"4220 Ibis St, San Diego, CA 92103",Mission Hills,4220,1000.0,2,1.0,4295
+4,"1210-1220 30th St, San Diego, CA 92102",South Park,2982,550.0,1,1.0,2395
+5,"1210-1220 30th St, San Diego, CA 92102",South Park,1220,550.0,1,1.0,2445
+6,"423 Gloria St, San Diego, CA 92113",Lincoln Park,Gloria ST,1000.0,2,2.0,2395
+0,"4342 Idaho St, San Diego, CA 92104",North Park,6,650.0,1,1.0,2495
+1,"3553 College Ave, San Diego, CA 92115",Rolando Park,7,,1,1.0,1695
+2,"2660-2674 Hornblend St, San Diego, CA 92109",Pacific Beach,L,650.0,1,1.0,2195
+3,"3925-35 Alabama St, San Diego, CA 92104",North Park,3925,650.0,1,1.0,1850
+4,"3152 Kemper St, San Diego, CA 92110",Point Loma Heights,25,600.0,1,1.0,2195
+5,"3152 Kemper St, San Diego, CA 92110",Point Loma Heights,19,650.0,1,1.0,2595
+6,"3152 Kemper St, San Diego, CA 92110",Point Loma Heights,20,650.0,1,1.0,2595
+7,"3152 Kemper St, San Diego, CA 92110",Point Loma Heights,21,650.0,1,1.0,2625
+8,"3677 1st Ave, San Diego, CA 92103",Hillcrest,102,953.0,2,2.0,3695
+9,"4369 Cleveland Ave, San Diego, CA 92103",University Heights,6,,1,1.0,2045
+10,"2070-2076 3rd Ave, San Diego, CA 92101",Cortez Hill,2074,930.0,2,1.0,2750
+11,"3918 Gresham St, San Diego, CA 92109",Pacific Beach,2,,1,1.0,2495
+12,"4245 Cleveland Ave, San Diego, CA 92103",University Heights,D,700.0,1,1.0,2100
+13,"4121-23 36th St, San Diego, CA 92104",Cherokee Point,,,2,1.5,3395
+0,"4088 48th St, San Diego, CA 92105",Colina del Sol,4088,,2,1.0,2195
+1,"2201-2205 Broadway, San Diego, CA 92102",Golden Hill,2203-6,283.0,0,1.0,1645
+2,"4728-30 Choctaw Dr, San Diego, CA 92115",College East,A,850.0,2,1.0,2195
+3,"1650 Emerald St, San Diego, CA 92109",Pacific Beach,6,550.0,1,1.0,3100
+4,"1650 Emerald St, San Diego, CA 92109",Pacific Beach,10,,1,1.0,3295
+5,"1650 Emerald St, San Diego, CA 92109",Pacific Beach,25,,2,2.0,3795
+6,"2812 Reynard Way, San Diego, CA 92103",Midtown,C,,2,1.0,2795
+7,"4219 & 4225 Georgia St, San Diego, CA 92103",North Park,4219-10,1000.0,2,2.0,2695
+8,"4121 Cherokee Ave, San Diego, CA 92104",Corridor,12,700.0,1,1.0,1905
+9,"4121 Cherokee Ave, San Diego, CA 92104",Corridor,13,700.0,1,1.0,1905
+10,"4582-4588 50th St, San Diego, CA 92115",Talmadge,4586 50th St,,2,1.0,2495
+11,"3060 E St, San Diego, CA 92102",Golden Hill,8,1000.0,2,2.0,2995
+12,"4834 Art St, San Diego, CA 92115",College East,4834,725.0,2,1.0,2195
+13,"375 S 49th St, San Diego, CA 92113",Lincoln Park,7,825.0,2,1.0,1995
